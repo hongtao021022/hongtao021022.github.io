@@ -1,7 +1,6 @@
 ---
-collection: RA Experience
-type: "RA Experience"
-permalink: \Experience\RA Experience
+collection: Experience
+permalink: \Experience\RA-Experience
 ---
 
 ## 研究经验
