@@ -1,5 +1,5 @@
 ---
-collection: Experience
+collection: RA Experience
 type: "RA Experience"
 permalink: \Experience\RA Experience
 ---
