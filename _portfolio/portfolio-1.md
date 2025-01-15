@@ -17,5 +17,10 @@ collection: portfolio
 
 在这一过程中，我同德国代表团的成员结下了深厚的友谊，图片是我们在冬奥会/冬残奥会期间的记录
 <img src='/images/IOC.jpg'>
+图为我和国际奥委会派驻人员的工作合影
 <img src='/images/With team D snowman.jpg'>
+图为我们与德国代表队共同堆的友谊雪人
 <img src='/images/Snow man.jpg'>
+我们的友谊雪人
+<img src='/images/With Paralympic Team D.jpg'>
+我们和德国残奥委会的工作合影
