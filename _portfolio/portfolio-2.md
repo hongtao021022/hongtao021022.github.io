@@ -1,6 +1,6 @@
 ---
-title: "组织能力方面——北京大学-国家发展研究院-经双学生会"
-excerpt: "在这里，你将认识我将会为你们社区带来的多样性<br/>
+title: "北京大学-国家发展研究院-经双学生会"
+excerpt: "请在这里评价我的组织能力<br/>
 <img src='/images/Stu-union.png'>"
 collection: portfolio
 ---
