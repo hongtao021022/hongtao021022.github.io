@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "[NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation](../files/ICEMGD.png)"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+permalink: /publication/NFT Popularity 
+excerpt: '研究内容为NFT与消费异化现象，并在本次会议以独立一作身份发表论文.'
+date: 2022-03-11
+paperurl: 'http://academicpages.github.io/files/NFT Popularity -- Digital Artwork and Baudrillard's Theory.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
