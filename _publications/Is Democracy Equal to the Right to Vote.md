@@ -8,7 +8,7 @@ date: 2022-11-11
 venue: '2022年公共服务、经济管理与可持续发展国际学术会议（PESD2022）'
 ---
 
-[Download](../files/Is Democracy Equal to the Right to Vote.pdf).
+[See this paper here](../files/Is Democracy Equal to the Right to Vote.pdf).
 
 In modern political society, democracy remains a universal concept. However, different 
 ideologies still have their own views on the concrete realization form of democracy. Nowadays, the 
@@ -16,6 +16,7 @@ understandings of the concept of democracy in the United States and its democrat
 mainstream of Western society, and their historical value and role should not be ignored. However, the 
 practice of this democratic system has differed from true democracy and has gradually manifested political 
 confusion.
+
 Firstly, this paper introduces the development of democracy and electoral system, and explains that the 
 initial meaning of Western democracy is institutional democracy, namely procedural democracy, which is 
 not the same as what we think of popular sovereignty today, and that the development course of Western
