@@ -1,9 +1,9 @@
 ---
-title: "[NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation](../files/ICEMGD.png)"
+title: "NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation"
 collection: publications
 category: conferences
 permalink: /publication/NFT_Popularity 
-excerpt: '研究内容为NFT与消费异化现象，并在本次会议以独立一作身份发表论文.'
+excerpt: '研究内容为NFT与消费异化现象，并在本次会议以独立一作身份发表论文'
 date: 2022-03-11
 paperurl: 'http://academicpages.github.io/files/NFT Popularity -- Digital Artwork and Baudrillard's Theory.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
