@@ -1,6 +1,7 @@
 ---
 title: "北京大学 国家发展研究院 - 城市经济学研究助理"
 venue: "National School of Development, Peking Univerisity"
+collection: talks
 permalink: /talks/PKU_Urban_Research
 date: 2024-Nowdays
 ---
