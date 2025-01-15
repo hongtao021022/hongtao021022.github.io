@@ -1,7 +1,7 @@
 ---
 title: "国际化、多样化——北京2022年冬奥会和冬残奥会"
 excerpt: "在这里，你将认识我将会为你们社区带来的多样性<br/>
-<img src='/images/With team D snowman.jpg'>"
+<img src='/images/IOC.jpg'>"
 collection: portfolio
 ---
 
