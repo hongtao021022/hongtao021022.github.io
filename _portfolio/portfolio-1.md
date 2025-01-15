@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "国际化、多样化——北京2022年冬奥会和冬残奥会"
+excerpt: "Short description of portfolio item number 1<br/>
+<img src='/images/With team D snowman.jpg'>"
 collection: portfolio
 ---
 

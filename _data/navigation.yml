@@ -10,12 +10,12 @@ main:
 
   - title: "RA-Experience"
     url: /talks/    
+    
+  - title: "Social Experience"
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
