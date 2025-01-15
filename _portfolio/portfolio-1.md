@@ -1,8 +1,21 @@
 ---
 title: "国际化、多样化——北京2022年冬奥会和冬残奥会"
-excerpt: "Short description of portfolio item number 1<br/>
+excerpt: "在这里，你将认识我将会为你们社区带来的多样性<br/>
 <img src='/images/With team D snowman.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### 国家（地区）奥委会和残奥委会助理 - 对外联络部
+**2022年1月 – 2022年3月**
+
+在2022年1月-3月，我有幸在北京冬奥会作为德国奥委会/残奥委会的志愿者，协助他们在冬奥会/冬残奥会进行工作。其中，我作为他们团队的一员，做出了以下工作：
+- 组织并带领德国代表团参与冬奥会开闭幕式及颁奖典礼等重大仪式。
+- 接待重要嘉宾，包括国际奥委会主席托马斯·巴赫。
+- 作为德国队的随队助理，全程陪同代表团，使用中英文双语协助代表团及德国媒体在冬奥村处理相关事务。
+
+在这一过程中，我同德国代表团的成员结下了深厚的友谊，图片是我们在冬奥会/冬残奥会期间的记录：
+
+在这一过程中，我同德国代表团的成员结下了深厚的友谊，图片是我们在冬奥会/冬残奥会期间的记录
+<img src='/images/IOC.jpg'>
+<img src='/images/With team D snowman.jpg'>
+<img src='/images/Snow man.jpg'>
