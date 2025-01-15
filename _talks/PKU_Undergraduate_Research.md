@@ -1,7 +1,7 @@
 ---
 title: "北京大学 本科生科研训练"
-collection: talks
 venue: "National School of Development, Peking Univerisity"
+collection: talks
 permalink: /talks/PKU_Undergraduate_Research
 ---
 **2023年5月-2024年11月**
