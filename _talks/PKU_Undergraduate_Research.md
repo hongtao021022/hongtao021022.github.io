@@ -4,7 +4,7 @@ venue: "National School of Development, Peking Univerisity"
 collection: talks
 permalink: /talks/PKU_Undergraduate_Research
 ---
-**2023年5月-2024年11月**
+**2023年06月 - 2024年11月**
 
 - **项目名称**: 《隐性金融分权对新增隐性债务、存量隐性债务的作用研究》
 - **指导老师**: 姚洋 院长
