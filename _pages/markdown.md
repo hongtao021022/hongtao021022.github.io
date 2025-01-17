@@ -19,12 +19,17 @@ redirect_from:
 以下是我对我本人本科阶段成果的详细展示。
 
 ## Beijing International Studies University
-  **Bachelor of International Economics and Trade (2020 - 2025),  School of Economics**  
+  **Bachelor of Economics,major in International Economics and Trade (2020 - 2025),  School of Economics**  
   Transcript click here
   <br/>GPA: 87.5/100 | Top 10% in Class  
   - __Relevant courses（full score 100）__: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
   - __Math course__: Statistics92, Calculus 82, Linear Algebra 81, Probability and Statistics 82 
   - __Scholarships__: Wu Tong Medal & Scholarship, Second Class Academic Excellence Scholarship, "Three Good Student" Award.
+
+**Multi-major in International Affairs and Relations**  
+  Transcript click here
+  <br/>GPA: 85.2/100 
+  - __Relevant courses（full score 100）__: Introductionto International Affairs 85, Contemporary International Relations 89, American Politics,Economics and Foreign Relations 90.etc
 
 
 
