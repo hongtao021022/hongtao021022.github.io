@@ -21,22 +21,22 @@ redirect_from:
 
 - **Beijing International Studies University**  
   *Bachelor of International Economics and Trade (2020 - 2025)*  
-  School of Economics Transcript click here
-  GPA: 87.5/100 | Top 10% in Class  
-  - Relevant courses（full score 100）: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
-  - Math course: Statistics92, Calculus 82, Linear Algebra 81, Probability and Statistics 82 
-  -Scholarships: Wu Tong Medal & Scholarship, Second Class Academic Excellence Scholarship, "Three Good Student" Award.
+  School of Economics,                                Transcript click here
+  <br/>GPA: 87.5/100 | Top 10% in Class  
+  - __Relevant courses（full score 100）__: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
+  - __Math course__: Statistics92, Calculus 82, Linear Algebra 81, Probability and Statistics 82 
+  - __Scholarships__: Wu Tong Medal & Scholarship, Second Class Academic Excellence Scholarship, "Three Good Student" Award.
 
 
 
 
 - **Peking University**  
   *Minor in Economics (2022 - 2025)*  
-    National School of Development Transcript Click here
-  - Relevant courses: Applied Microeconometrics 84/100 , Urban Economics,Economic Philosophy, China Economic Topics (by Lin Yifu).  
+    National School of Development,           Transcript Click here
+  - Relevant courses: Applied Microeconometrics 84/100 , Urban Economics,Economic Philosophy, China Economic Topics.  
 
-   *Research Experience*
-    For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
+- **Peking University Research Experience**
+<br/>For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
 
 - Peking University, National School of Development ——Research Assistant (2024 - Present)  
   - Project 1: "Alternative Data Generation in Data-Scarce Regions: Applications in Africa"  
@@ -44,8 +44,8 @@ redirect_from:
   - Project 2: "Carbon Reduction Pathways Based on Forest Resources"  
     Tasks: Studying heterogeneity in forest coverage and highway construction.
 
-- **Peking University, Undergraduate Research Program**  
-  *Principal Investigator (2023 - Present)*  
+- Peking University, Undergraduate Research Program  
+  Principal Investigator (2023 - Present)*  
   - Funded by Peking University President Fund.  
   - Research Topic: Effects of financial decentralization on implicit debt accumulation in China.  
 
