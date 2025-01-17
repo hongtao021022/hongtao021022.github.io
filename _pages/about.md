@@ -22,7 +22,7 @@ You can find my CV here: [Hongtao Ma's Curriculum Vitae](../assets/Curriculum_Vi
   *Bachelor of International Economics and Trade (2020 - 2025)*  
   GPA: 88/100 | Top 10% in Class  
   - Relevant courses: Western Economics (Micro & Macro), Monetary Economics, International Trade, International Finance, Corporate Finance, Comprehensive English, English Speech.  
-  - Scholarships: Wu Tong Medal, Academic Excellence Scholarship, "Three Good Student" Award.
+  - Scholarships: Wu Tong Medal & Scholarship, Second Class Academic Excellence Scholarship, "Three Good Student" Award.
 
 - **Peking University**  
   *Minor in Economics (2022 - 2025)*  
@@ -37,6 +37,7 @@ You can find my CV here: [Hongtao Ma's Curriculum Vitae](../assets/Curriculum_Vi
 ---
 
 ## Research Experience
+For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
 
 - **Peking University, National School of Development**  
   *Research Assistant (2024 - Present)*  
@@ -57,6 +58,7 @@ You can find my CV here: [Hongtao Ma's Curriculum Vitae](../assets/Curriculum_Vi
 ---
 
 ## Leadership and Activities
+For better assessment to my leadership abilities, please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 
 - **Beijing Winter Olympics and Paralympics 2022**  
   *NOC/NPC Assistant (Jan 2022 - Mar 2022)*  
