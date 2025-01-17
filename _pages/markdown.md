@@ -19,7 +19,7 @@ redirect_from:
 
 以下是我对我本人本科阶段成果的详细展示。
 
-##Beijing International Studies University##  
+##Beijing International Studies University
   **Bachelor of International Economics and Trade (2020 - 2025)**  
   School of Economics,                                Transcript click here
   <br/>GPA: 87.5/100 | Top 10% in Class  
@@ -30,7 +30,7 @@ redirect_from:
 
 
 
-##Peking University##  
+##Peking University
   **Minor in Economics (2022 - 2025), National School of Development**<br/>Transcript Click here
   - __Relevant courses__: Economometrics, Applied Microeconometrics, Urban Economics,Economic Philosophy, China Economic Topics.  
 
