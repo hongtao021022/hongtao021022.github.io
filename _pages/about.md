@@ -58,7 +58,8 @@ For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
 ---
 
 ## Leadership and Activities
-For better assessment to my leadership abilities, please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
+For better assessment to my leadership abilities,
+Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 
 - **Beijing Winter Olympics and Paralympics 2022**  
   *NOC/NPC Assistant (Jan 2022 - Mar 2022)*  
