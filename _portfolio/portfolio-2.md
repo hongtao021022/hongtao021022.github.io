@@ -1,11 +1,11 @@
 ---
-title: "北京大学-国家发展研究院-经双学生会"
-excerpt: "请在这里评价我的组织能力<br/>
+title: "Leadership & Organizational Capability - My duty in Jingshuang Student Union, National School of Development, Peking University "
+excerpt: "I'm used to service as Director of Liaison Department in the Jingshuang Student Union at Peking University, I would be delighted if you could evaluate my organizational skills here.<br/>
 <img src='/images/Stu-union.png'>"
 collection: portfolio
 ---
 
-### 联络部部长职责
+### 
 
 作为联络部部长，我承担着为北京大学国家发展研究院经济学项目的学生与社会企业建立联系、合作的职责，帮助同学们参与社会实践。
 

@@ -1,5 +1,5 @@
 ---
-title: "Internationalization & Diversity — Beijing 2022 Winter Olympics and Paralympics Games"
+title: "Internationalization & Diversity —— Beijing 2022 Winter Olympics and Paralympics Games"
 excerpt: "I am committed to international development and making contribution to a diverse and harmonious society.<br/>
 <img src='/images/IOC.jpg'>"
 collection: portfolio
