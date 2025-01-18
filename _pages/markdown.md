@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br/>
-__Click on the <font color=Blue>blue words</font> to view the corresponding supporting documents.__
+__Click on the <font color= #ADD8E6>light blue words</font> to view the corresponding supporting documents.__
 
 My educational background mainly consists of two institutions: Beijing International Studies University (BISU), where I pursued a [Bachelor's degree in International Economics and Trade from 2020 to 2025](../files/03-BISU Certificate of Attending.pdf), and Peking University (PKU), where I participated in the [Minor Program of Economics from 2022 to 2025](../files/02-PKU Certificate of Attending.pdf). 
 
