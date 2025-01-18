@@ -34,7 +34,7 @@ Below is a detailed presentation of my academic background.
   [Transcript click here](../files/04-BISU-Multi-major-transcript.pdf)
   <br/>GPA: 85.2/100 
   - __Relevant courses（full score 100）__: Introductionto International Affairs 85, Contemporary International Relations 89, American Politics,Economics and Foreign Relations 90.etc
-  - __Course work paper__: [Is Democracy Equal to the Right to Vote? –An Analysis of Substantive and Procedural Democracy in the United States](https://hongtao021022.github.io/publication/Is%20Democracy%20Equal%20to%20the%20Right%20to%20Vote) <br/>This is the paper which I worked with the classmate when I study the multi-major in BISU
+  - __Course work paper__: [Is Democracy Equal to the Right to Vote? –An Analysis of Substantive and Procedural Democracy in the United States](https://hongtao021022.github.io/publication/Is%20Democracy%20Equal%20to%20the%20Right%20to%20Vote) <br/>This is a course work paper that I completed together with two classmates from the School of International Relations during my multi-major studies at BISU. The content consists of our thoughts on the American electoral system.Click the above blue connection to see the details.
 
 
 
