@@ -1,27 +1,30 @@
 ---
-title: "国际化、多样化——北京2022年冬奥会和冬残奥会"
-excerpt: "在这里，你将认识我将会为你们社区带来的多样性<br/>
+title: "Internationalization & Diversity — Beijing 2022 Winter Olympics and Paralympics Games"
+excerpt: "I am committed to international development and devote to make contribution to a diverse and harmonious society.<br/>
 <img src='/images/IOC.jpg'>"
 collection: portfolio
 ---
 
-### 国家（地区）奥委会和残奥委会助理 - 对外联络部
-**2022年1月 – 2022年3月**
+### Assistant to the National (Regional) Olympic and Paralympic Committees - Liaison Department
+**January 2022 – March 2022**
 
-在2022年1月-3月，我有幸在北京冬奥会作为德国奥委会/残奥委会的志愿者，协助他们在冬奥会/冬残奥会进行工作。其中，我作为他们团队的一员，做出了以下工作：
-- 组织并带领德国代表团参与冬奥会开闭幕式及颁奖典礼等重大仪式。
-- 接待重要嘉宾，包括国际奥委会主席托马斯·巴赫。
-- 作为德国队的随队助理，全程陪同代表团，使用中英文双语协助代表团及德国媒体在冬奥村处理相关事务。
+From January to March 2022, I was fortunate to be assigned by the Beijing Organizing Committee for the 2022 Winter Olympics as an assistant (volunteer) to work for the German Olympic and Paralympic Committees. I  used __English__ as the working language, assisted them to deal with the affairs during the whole games.
 
-在这一过程中，我同德国代表团的成员结下了深厚的友谊，图片是我们在冬奥会/冬残奥会期间的记录
+As a member of Team Germany, I did the works in following：
+- Organized and led the German delegation to participate in major ceremonies such as the opening and closing ceremonies of the Winter Olympics and the awarding ceremonies.
+- Received important guests, Such as IOC President Thomas Bach.
+- As an assistant, I helped the delegation arrange transportation for competitions and accompanied the delegation to various venues to provide translation services.
+
+During this process, I forged deep friendships with the members of the German delegation. The pictures are records from the period of the Winter Olympics/Paralympics.
+<br/>
 <img src='/images/IOC.jpg'>
-图为我和国际奥委会派驻人员的工作合影
+The photo was taken after the IOC staff and I put up Spring Festival couplets on Chinese New Year's Eve.
 
 <img src='/images/With team D snowman.jpg'>
-图为我们与德国代表队共同堆的友谊雪人
+This is a group photo of our volunteers with the Team German. In front of us was the snowman which we built together in February 14, 2022 (The Valentine's Day), symbolized the friendship between our two countries.
 
 <img src='/images/Snow man.jpg'>
-我们的友谊雪人
+The friendship snowman of Germany and China
 
 <img src='/images/With Paralympic Team D.jpg'>
-我们和德国残奥委会的工作合影
+This is a work photo taken with the German Paralympic Committee
