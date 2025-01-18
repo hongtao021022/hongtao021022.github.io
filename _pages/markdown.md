@@ -6,22 +6,24 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-#欢迎您来到该界面。这里有我详细的背景介绍。点击蓝色的部分是对应的材料证明。
+__Welcome to this page. Here you can find a detailed introduction of my background__. Click on the blue words to view the corresponding supporting documents.
 
-我的教育背景主要在两所学校：北京第二外国语学院 国际经济与贸易学士（2020-2025） 与北京大学 经济学辅修项目
+My educational background mainly consists of two institutions: Beijing International Studies University (BISU), where I pursued a [Bachelor's degree in International Economics and Trade from 2020 to 2025](../files/03-BISU Certificate of Attending.pdf), and Peking University (PKU), where I participated in the [Minor Program of Economics from 2022 to 2025](../files/02-PKU Certificate of Attending.pdf). 
 
-我于2020年进入北京第二外国语学院 经济学院 国际经济与贸易学士项目进行全日制学习。同时于2022年进入北京大学经济学辅修项目学习。我在前者进行基础的经济学课程学习，并在后者学习一些进阶的经济学课程，比如应用微观计量，中国经济专题等课程。在北京大学进行本科生科研训练和研究助理的工作。因此，两者共同构成了我在经济学学习的部分。
+Expected graduation date: 2025
 
-此外，出于对国际政治的热爱，我在北京第二外国语学院进行了国际事务与国际关系的multi-major studies。
+In 2020, I began my full-time study in the Bachelor's program of International Economics and Trade at the School of Economics, BISU. Concurrently, in 2022, I enrolled in the Economics Minor Program at PKU. At BISU, I focused on fundamental economics courses, while at PKU, I delved into advanced economics courses such as Applied Microeconometrics and Special Topics on Chinese Economy. I also engaged in undergraduate research training and worked as a research assistant at PKU. Thus, these two programs together form the core of my economics education.
 
-综上所述，我具备了基本的政治与经济学背景。
+Moreover, driven by my passion for international politics, I undertook multi-major studies in International Affairs and International Relations at BISU.
 
-以下是我对我本人本科阶段成果的详细展示。
+In summary, I have acquired a solid foundation in both politics and economics. I plan to apply for master's programs related to politics and economics to further integrate these two fields of study, or for programs in statistics to lay a quantitative foundation for future PhD studies.
+
+Below is a detailed presentation of my academic background.
 
 ## Beijing International Studies University
   **Bachelor of Economics,major in International Economics and Trade (2020 - 2025),  School of Economics**  
   [Transcript click here](../files/01-Transcript_BISU.pdf)
-  <br/>GPA: 87.5/100 | Top 10% in Class  
+  <br/>GPA: 87.5/100 | [Top 10% in Class](../files/04-BISU-Academic Ranking.pdf)
   - __Relevant courses（full score 100）__: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
   - __Math course__: Statistics92, Calculus 82, Linear Algebra 81, Probability and Statistics 82 
   - __Scholarships__: [Wu Tong Medal & Scholarship](../files/05-BISU-Wutong Scholarship.pdf), [Second Class Academic Excellence Scholarship, "Three Good Student" Award](../files/05-List of Awards earned by Hongtao.pdf).
