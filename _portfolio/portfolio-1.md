@@ -15,7 +15,8 @@ __As a member of Team Germany, I did the works in following：__
 - Received important guests, Such as IOC President Thomas Bach.
 - As an assistant, I helped the delegation arrange transportation for competitions and accompanied the delegation to various venues to provide translation services.
 
-During this process, I forged deep friendships with the members of the German delegation. The pictures are records from the period of the Winter Olympics/Paralympics.
+
+__During this process, I forged deep friendships with the members of the German delegation. The pictures are records from the period of the Winter Olympics/Paralympics.__
 
 
 <img src='/images/IOC.jpg'>
