@@ -6,7 +6,9 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-__Welcome to this page. Here you can find a detailed introduction of my background__. Click on the blue words to view the corresponding supporting documents.
+__Welcome to this page. Here you can find a detailed introduction of my academic background__. 
+
+Click on the blue words to view the corresponding supporting documents.
 
 My educational background mainly consists of two institutions: Beijing International Studies University (BISU), where I pursued a [Bachelor's degree in International Economics and Trade from 2020 to 2025](../files/03-BISU Certificate of Attending.pdf), and Peking University (PKU), where I participated in the [Minor Program of Economics from 2022 to 2025](../files/02-PKU Certificate of Attending.pdf). 
 
@@ -32,6 +34,7 @@ Below is a detailed presentation of my academic background.
   [Transcript click here](../files/04-BISU-Multi-major-transcript.pdf)
   <br/>GPA: 85.2/100 
   - __Relevant courses（full score 100）__: Introductionto International Affairs 85, Contemporary International Relations 89, American Politics,Economics and Foreign Relations 90.etc
+  - __Course work paper__: [Is Democracy Equal to the Right to Vote? –An Analysis of Substantive and Procedural Democracy in the United States](https://hongtao021022.github.io/publication/Is%20Democracy%20Equal%20to%20the%20Right%20to%20Vote) <br/>This is the paper which I worked with the classmate when I study the multi-major in BISU
 
 
 
