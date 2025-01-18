@@ -10,13 +10,14 @@ collection: portfolio
 
 From January to March 2022, I was fortunate to be assigned by the Beijing Organizing Committee for the 2022 Winter Olympics as an assistant (volunteer) to work for the German Olympic and Paralympic Committees. I  used __English__ as the working language, assisted them to deal with the affairs during the whole games.
 
-As a member of Team Germany, I did the works in following：
+__As a member of Team Germany, I did the works in following：__
 - Organized and led the German delegation to participate in major ceremonies such as the opening and closing ceremonies of the Winter Olympics and the awarding ceremonies.
 - Received important guests, Such as IOC President Thomas Bach.
 - As an assistant, I helped the delegation arrange transportation for competitions and accompanied the delegation to various venues to provide translation services.
 
 During this process, I forged deep friendships with the members of the German delegation. The pictures are records from the period of the Winter Olympics/Paralympics.
-<br/>
+
+
 <img src='/images/IOC.jpg'>
 The photo was taken after the IOC staff and I put up Spring Festival couplets on Chinese New Year's Eve.
 
@@ -27,4 +28,4 @@ This is a group photo of our volunteers with the Team German. In front of us was
 The friendship snowman of Germany and China
 
 <img src='/images/With Paralympic Team D.jpg'>
-This is a work photo taken with the German Paralympic Committee
+This photo was taken with the German Paralympic Committee as a memorial
