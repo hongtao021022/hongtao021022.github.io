@@ -1,14 +1,15 @@
 ---
 permalink: /markdown/
-title: "Education"
+title: "Education
+<br/>__Welcome to this page. Here you can find a detailed introduction of my academic background__. "
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-__Welcome to this page. Here you can find a detailed introduction of my academic background__. 
 
-Click on the blue words to view the corresponding supporting documents.
+
+__Click on the blue words to view the corresponding supporting documents.__
 
 My educational background mainly consists of two institutions: Beijing International Studies University (BISU), where I pursued a [Bachelor's degree in International Economics and Trade from 2020 to 2025](../files/03-BISU Certificate of Attending.pdf), and Peking University (PKU), where I participated in the [Minor Program of Economics from 2022 to 2025](../files/02-PKU Certificate of Attending.pdf). 
 
