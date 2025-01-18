@@ -1,29 +1,59 @@
----
-layout: archive
-title: "欢迎您来到该页面<br/>
-<br/>
-我相信该页面将会很好的帮助您评价我的领导力以及社会工作能力。<br/>
-<br/>
-并评估我能为你们的社区做出什么样的贡献<br/>
-<br/>
-<br/>
-<font size=5> 我的社会经历主要分为三个部分:
-<br/>--- 学生会工作经历
-<br/>--- 北京2022年冬奥会暨冬残奥会
-<br/>--- 其他社会经历（实习or social work）
-<br/></font>
-<br/>
-<font size=5>以下为详细介绍，点击蓝色文字查看详细内容 </font>
 
-"
-permalink: /portfolio/
-author_profile: true
----
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>欢迎您来到该页面
 
-{% include base_path %}
+我相信该页面将会很好地帮助您评价我的领导力能力。
 
+并评估我能为你们的社区做出什么样的贡献
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+我的社会经历主要分为三个部分:
+ 学生会工作经历
+ 北京2022年冬奥会暨冬残奥会
+ 其他社会经历汇总（实习or social work）
+
+以下为详细介绍，点击蓝色文字查看详细内容</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>欢迎您来到该页面</h1>
+    <p>我相信该页面将会很好地帮助您评价我的领导力能力。</p>
+    <p>并评估我能为你们的社区做出什么样的贡献</p>
+
+    <h2>我的社会经历主要分为三个部分：</h2>
+    <ul>
+        <li>学生会工作经历</li>
+        <li>北京2022年冬奥会暨冬残奥会</li>
+        <li>其他社会经历汇总（实习or social work）</li>
+    </ul>
+    <p>以下为详细介绍，点击蓝色文字查看详细内容</p>
+</body>
+</html>
 
