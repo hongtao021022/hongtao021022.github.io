@@ -39,8 +39,6 @@ Below is a detailed presentation of my academic background.
   - __Course work paper__: [Is Democracy Equal to the Right to Vote? –An Analysis of Substantive and Procedural Democracy in the United States](https://hongtao021022.github.io/publication/Is%20Democracy%20Equal%20to%20the%20Right%20to%20Vote) <br/>This is a course work paper that I completed together with two classmates from the School of International Relations during my multi-major studies at BISU. The content consists of our thoughts on the American electoral system.Click the above blue connection to see the details.
 
 
-
-
 ## Peking University
   **Minor in Economics (2022 - 2025), National School of Development**<br/>[Transcript Click here](../files/01-PKU-transcript certificed.pdf)
   - __Relevant courses__: Economometrics, Applied Microeconometrics, Urban Economics,Economic Philosophy, China Economic Topics.  
