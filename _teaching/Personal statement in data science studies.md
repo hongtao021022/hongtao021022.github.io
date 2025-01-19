@@ -1,7 +1,7 @@
 ---
 title: "Personal statement in data science studies"
 collection: teaching
-type: "Workshop"
+type: "Hongtao Ma"
 permalink: /teaching/Personal statement in data science studies
 
 ---
