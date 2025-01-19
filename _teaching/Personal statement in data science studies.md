@@ -1,6 +1,7 @@
 ---
 title: "Personal statement in data science studies"
 collection: teaching
+type: "Workshop"
 permalink: /teaching/Personal statement in data science studies
 
 ---
