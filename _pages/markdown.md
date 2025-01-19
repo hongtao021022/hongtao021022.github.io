@@ -12,13 +12,15 @@ __Click on the <font color=lightblue>light blue words</font> to view the corresp
 
 My educational background mainly consists of two institutions: Beijing International Studies University (BISU), where I pursued a [Bachelor's degree in International Economics and Trade from 2020 to 2025](../files/03-BISU Certificate of Attending.pdf), and Peking University (PKU), where I participated in the [Minor Program of Economics from 2022 to 2025](../files/02-PKU Certificate of Attending.pdf). 
 
-Expected graduation date: 2025
+Expected graduation time: July, 2025
 
 In 2020, I began my full-time study in the Bachelor's program of International Economics and Trade at the School of Economics, BISU. Concurrently, in 2022, I enrolled in the Economics Minor Program at PKU. At BISU, I focused on fundamental economics courses, while at PKU, I delved into advanced economics courses such as Applied Microeconometrics and Special Topics on Chinese Economy. I also engaged in undergraduate research training and worked as a research assistant at PKU. Thus, these two programs together form the core of my economics education.
 
-Moreover, driven by my passion for international politics, I undertook multi-major studies in International Affairs and International Relations at BISU.
+Besides my studies in economics, I also take a Multi-Major studies in International Affairs and International Relations at BISU, which was driven by my passion for International Politics. 
 
-In summary, I have acquired a solid foundation in both politics and economics. I plan to apply for master's programs related to politics and economics to further integrate these two fields of study, or for programs in statistics to lay a quantitative foundation for future PhD studies.
+And to further enhance my skills in quantitative research, I started a path of studies in data science by many ways, such as the data science summer course in the University of Hong Kong, participating mathematical modeling competitions, and edx courses, which significantly enriched my knowledge in data science/quantitative studies.
+
+In summary, I have acquired a solid foundation in both politics and economics economics. I plan to apply for master's programs related to politics and economics to further integrate these two fields of study, or for programs in statistics to lay a quantitative foundation for future PhD studies.
 
 Below is a detailed presentation of my academic background.
 
