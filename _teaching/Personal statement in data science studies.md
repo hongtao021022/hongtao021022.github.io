@@ -1,12 +1,13 @@
 ---
 title: "Personal statement in data science studies"
 collection: teaching
-type: "_Written by Hongtao Ma_"
+type: "*Written by Hongtao Ma*"
 permalink: /teaching/Personal statement in data science studies
 venue: "Beijing International Studies Univeristy, School of Economics"
 date: 2025-01-10
 location: "Beijing, P.R.China"
 ---
+
 This is a description of my studies experience in data science. 
 
 It contains three parts:
