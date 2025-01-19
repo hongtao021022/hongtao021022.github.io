@@ -1,9 +1,9 @@
 ---
 title: "Personal statement in data science studies"
 collection: teaching
-type: "Hongtao Ma"
+type: "_Written by Hongtao Ma_"
 permalink: /teaching/Personal statement in data science studies
-venue: "Written at BISU"
+venue: "Beijing International Studies Univeristy, School of Economics"
 date: 2025-01-10
 location: "Beijing, P.R.China"
 ---
