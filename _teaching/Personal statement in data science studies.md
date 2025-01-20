@@ -53,7 +53,7 @@ This is a description of my studies experience in data science.
 
 ## Mathematical Modeling
   **The following are the prize I earned in the competitions**  
-  - Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition (Chinese Division), International Second Prize.pdf)
-  - Asia-Pacific Mathematical Modeling Competition (contest in English), International Third Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition, International Third Prize.pdf)
-  - China Undergraduate Mathematical Contest in Modelling（CUMCM）, Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
+  - [Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition (Chinese Division), International Second Prize.pdf)
+  - [Asia-Pacific Mathematical Modeling Competition (contest in English), International Third Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition, International Third Prize.pdf)
+  - [China Undergraduate Mathematical Contest in Modelling（CUMCM）, Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
 
