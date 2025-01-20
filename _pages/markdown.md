@@ -12,13 +12,13 @@ __Click on the <font color=lightblue>light blue words</font> to view the corresp
 
 My educational background mainly consists of two institutions: Beijing International Studies University (BISU), where I pursued a [Bachelor's degree in International Economics and Trade from 2020 to 2025](../files/03-BISU Certificate of Attending.pdf), and Peking University (PKU), where I participated in the [Minor Program of Economics from 2022 to 2025](../files/02-PKU Certificate of Attending.pdf). 
 
-Expected graduation time: July, 2025
+__Expected graduation time: July, 2025__
 
 In 2020, I began my full-time study in the Bachelor's program of International Economics and Trade at the School of Economics, BISU. Concurrently, in 2022, I enrolled in the Economics Minor Program at PKU. At BISU, I focused on fundamental economics courses, while at PKU, I deived into advanced economics courses such as Applied Microeconometrics and Special Topics on Chinese Economy. I also engaged in undergraduate research training and worked as a research assistant at PKU. Thus, these two programs together form the core of my economics education.
 
-Besides my studies in economics, I also take a Multi-Major studies in International Affairs and International Relations at BISU, which was driven by my passion for International Politics. 
+Besides my studies in economics, I also take a __Multi-Major studies in International Affairs and International Relations__ at BISU, which was driven by my passion for International Politics. 
 
-And to further enhance my skills in quantitative research, I started a path of studies in data science by many ways, such as the data science summer course in the University of Hong Kong, participating mathematical modeling competitions, and edx courses, which significantly enriched my knowledge in data science/quantitative studies.
+And to further enhance my skills in quantitative research, I started __a path of studies in data science__ by many ways, such as the data science summer course in the University of Hong Kong, participating mathematical modeling competitions, and edx courses, which significantly enriched my knowledge in data science/quantitative studies.
 
 __The description of my studies in data science is in the Personal Statement,__ [click here to see this](https://hongtao021022.github.io/teaching/Personal%20statement%20in%20data%20science%20studies)
 
