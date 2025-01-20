@@ -61,7 +61,7 @@ I firmly believe that the study of data science will help me to solve complex pr
 
 ## Paper working in data science
   **Three-Dimensional UAV Path Planning in Urban Environments Based on an Improved Parrot Optimization Algorithm**  
-  - This is my trial in algorithm studies after delving into the studies in data science, which is under the revising and excepted to be published as a SCI paper in this year.
+  - This is a trial in algorithm studies after my series studies in data science, which is under the revising and excepted to be published as a SCI paper in this year.
   - [Click here to see the details](https://hongtao021022.github.io/publication/Three-Dimensional%20UAV%20Path%20Planning%20in%20Urban%20EnvironmentsBased).
 
 
