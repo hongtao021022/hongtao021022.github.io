@@ -14,7 +14,7 @@ __This is a description of my studies experience in data science.__
 ## Statement: 
 In the section on my [academic background](https://hongtao021022.github.io/markdown/), I have provided detailes of my academic experiences. During my studies in these fields, I deeply recognized the significance of quantitative analysis, which permeates research and practice across various field of studies. Therefore, driven by the need for further learning and in anticipation of future academic pursuits, I am convinced that mastering advanced quantitative skills will provide a solid foundation for my academic development.
 
-Based on this understanding, I enrolled in a summer course at the University of Hong Kong in the summer of 2023, marking the beginning of my journey into data science. During the course, I learned some bastic theories of data sciences, such as neural networks, nonlinear programming, and genetic algorithms, which opened the door to the field of data science and gave me an initial understanding of it.
+Based on this understanding, I enrolled in a summer course at [the University of Hong Kong](https://datascience.hku.hk/study/summer-programmes-for-ug/) in the summer of 2023, marking the beginning of my journey into data science. During the course, I learned some bastic theories of data sciences, such as neural networks, nonlinear programming, and genetic algorithms, which opened the door to the field of data science and gave me an initial understanding of it.
 
 After gaining an initial foothold, I chose to further my studies through an online course offered by [Harvard University on the edX](https://www.edx.org/certificates/professional-certificate/harvardx-data-science). At the same time, to help me be more  proficient  in practical usage, I participated in several mathematical modeling competitions and completed a paper on financial mathematical modeling.
 
@@ -52,7 +52,7 @@ I firmly believe that the study of data science will help me to solve complex pr
 
 
 ## Mathematical Modeling
-  **The following are the prize I earned in the competitions**  
+  **The following are the prizes I earned in the competitions**  
   - [Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition (Chinese Division), International Second Prize.pdf)
   - [Asia-Pacific Mathematical Modeling Competition (contest in English), International Third Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition, International Third Prize.pdf)
   - [China Undergraduate Mathematical Contest in Modelling（CUMCM）, Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
