@@ -8,20 +8,19 @@ date: 2025-01-10
 location: "Beijing, P.R.China"
 ---
 <br/>
-This is a description of my studies experience in data science. 
+__ This is a description of my studies experience in data science. __ 
+<br/>__Click on the <font color=lightblue>light blue words</font> to view the corresponding supporting documents.__
 
+## Statement: 
+In the section on my [academic background](https://hongtao021022.github.io/markdown/), I have provided detailes of my academic experiences. During my studies in these fields, I deeply recognized the significance of quantitative analysis, which permeates research and practice across various field of studies. Therefore, driven by the need for further learning and in anticipation of future academic pursuits, I am convinced that mastering advanced quantitative skills will provide a solid foundation for my academic development.
 
-在课业之余，我积极投身于数据科学的学习之旅，这一选择源于我对自身学术背景与未来发展的深入思考。
+Based on this understanding, I enrolled in a summer course at the University of Hong Kong in the summer of 2023, marking the beginning of my journey into data science. During the course, I learned some bastic theories of data sciences, such as neural networks, nonlinear programming, and genetic algorithms, which opened the door to the field of data science and gave me an initial understanding of it.
 
-我的学术背景丰富多元，涵盖了国际经济与贸易、国际政治等诸多领域。在这些领域的学习过程中，我深刻体会到定量分析的重要性，它贯穿于各个学科的研究与实践中。并且，数据科学作为一个跨学科领域，将经济学、社会学、技术等多领域的知识紧密相连，实现了知识的深度融合与创新应用。随着我对经济、政治领域的深入探索，以及对未来进一步深造的规划，我愈发意识到，掌握定量分析的高级技能将为我的学术发展提供坚实支撑。
+After gaining an initial foothold, I chose to further my studies through an online course offered by [Harvard University on the edX](https://www.edx.org/certificates/professional-certificate/harvardx-data-science). At the same time, to help me be more  proficient  in practical usage, I participated in several mathematical modeling competitions and completed a paper on financial mathematical modeling.
 
-基于这样的认知，我于2023年暑假报名参加了香港大学的暑期课程，正式开启了数据科学的学习之旅。在课程中，我初步涉猎了神经网络、非线性规划、遗传算法等前沿内容，这些知识为我打开了数据科学的大门，让我对这一领域有了初步的感知。
+So, the studies and practical using in mathematical competitions help me have a good command of analysis tools such as __ Python, MATLAB, and R __, and use these tools for data analysis, machine learning, and other tasks. This not only supports my academic research but also lays a solid foundation for my career development.
 
-在入门之后，为了进一步学习相关内容，我选择了哈佛大学在edX平台推出的在线课程。与此同时，我深知理论与实践相结合的重要性，因此参与了多个数学建模比赛，并在此过程中完成了一篇金融数学建模论文。
-
-经过系统学习与实践锻炼，我熟练掌握了Python、MATLAB、R等编程工具，能够运用它们开展一定的数据分析、机器学习等工作。这些技能的掌握，不仅为我的学术研究提供了有力支持，也为我的职业发展奠定了坚实基础。
-
-我坚信，数据科学的学习将为我解锁更多解决复杂问题的工具，为我的未来开辟更广阔的职业道路，助力我在学术与职业领域实现更高远的目标。
+I firmly believe that the study of data science will help me to solve complex problems, open up broader career paths for my future, and enable me to achieve higher goals in both academic and professional realms.
 
 ## The fellow is the details and materials
 
@@ -29,10 +28,11 @@ This is a description of my studies experience in data science.
 - Summer program in the University of Hong Kong
 - Harvard edx courses——Professional Certificate inData Science
 - Participating in Mathematical Modeling Competition
-
+<br/>
+<br/>
 
 ## Data science course in The University of Hong Kong
-  **Program name is Data Science for Beginners: Theory, Algorithms and Applications**  
+  **[Program name is Data Science for Beginners: Theory, Algorithms and Applications](../assets/07-HKU summer program.pdf)**  
   - __This is the start of my studies in data science__
   - __Relevant courses:__ Neural Network; Nonlinear Programming; Genetic Algorithm
 
