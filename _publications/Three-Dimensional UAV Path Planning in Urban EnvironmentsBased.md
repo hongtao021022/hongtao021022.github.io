@@ -8,7 +8,7 @@ excerpt: '  - After my series studies in data science,I choose to make a trial i
 
 [See this paper here](../files/Three-Dimensional UAV Path Planning in Urban EnvironmentsBased.pdf).
 
-Abstract: With the rapid development of unmanned aerial vehicle (UAV) technology, its
+__Abstract:__ With the rapid development of unmanned aerial vehicle (UAV) technology, its
 applications in military and civilian fields are becoming increasingly widespread. However, realizing autonomous navigation of UAVs in complex environments still faces numerous
 challenges, especially the three-dimensional path planning problem. To address this, this paper
 proposes an improved parrot optimization algorithm (IPO) by introducing SPM chaotic mapping, adaptive switching factor, and hybrid Cauchy and Gaussian mutation strategies to enhance the
