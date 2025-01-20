@@ -1,5 +1,5 @@
 ---
-title: "Three-Dimensional UAV Path Planning in Urban EnvironmentsBased"
+title: "Three-Dimensional UAV Path Planning in Urban Environments Based on an Improved Parrot Optimization Algorithm"
 collection: On Working
 category: On Working
 permalink: /publication/Three-Dimensional UAV Path Planning in Urban EnvironmentsBased

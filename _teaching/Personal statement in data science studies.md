@@ -28,6 +28,7 @@ I firmly believe that the study of data science will help me to solve complex pr
 - Summer program in the University of Hong Kong
 - Harvard edx courses——Professional Certificate inData Science
 - Participating in Mathematical Modeling Competition
+- Paper workings in data science
 <br/>
 <br/>
 
@@ -57,3 +58,13 @@ I firmly believe that the study of data science will help me to solve complex pr
   - [Asia-Pacific Mathematical Modeling Competition (contest in English), International Third Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition, International Third Prize.pdf)
   - [China Undergraduate Mathematical Contest in Modelling（CUMCM）, Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
 
+
+## Paper working in data science
+  **Three-Dimensional UAV Path Planning in Urban Environments Based on an Improved Parrot Optimization Algorithm**  
+  - This is a paper under revising, which we excepted to public as a SCI paper in this year.
+  - After delving into the studies in data science,I choose to make a trial in algorithms.So my two classmates and I jointly proposed an Improved Parrot Optimization Algorithm (IPO). By incorporating chaotic mapping, an adaptive switching factor, and hybrid mutation strategies, we significantly enhanced the global search capability and convergence speed of UAV three-dimensional path planning. Additionally, I utilized MATLAB to create a three-dimensional map based on my alma mater, Beijing International Studies University (BISU), and conducted simulation experiments on this platform.
+  - [Click here to see the details](https://hongtao021022.github.io/publication/Three-Dimensional%20UAV%20Path%20Planning%20in%20Urban%20EnvironmentsBased).
+
+
+  **基于市场因子的证券市场投资风险控制模型设计**  
+  - This is a paper under revising, which we excepted to public as a SCI paper in this year.
