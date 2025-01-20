@@ -41,18 +41,19 @@ This is a description of my studies experience in data science.
   **Professional Certificate inData Science**  
 - __This is the start of my studies in data science__
 - __Relevant courses:__
-    - Data Science: R Basics
-    - Data Science: Visualization
-    - Data Science: Probability
-    - Data Science: Inference and Modeling
-    - Data Science: Productivity Tools
-    - Data Science: Wrangling
-    - Data Science: Linear Regression
-    - Data Science: Machine Learning
+    - [Data Science: R Basics](../assets/HarvardX PH125.1x Certificate R_Basics edX.pdf)
+    - [Data Science: Visualization](../assets/HarvardX PH125.2x Certificate Visualization_ edX.pdf)
+    - [Data Science: Probability](../assets/HarvardX PH125.3x Certificate Probability_ edX.pdf)
+    - [Data Science: Inference and Modeling](../assets/HarvardX PH125.4x Certificate Inference and Modeling_ edX.pdf)
+    - [Data Science: Productivity Tools](../assets/HarvardX PH125.5x Certificate Productivity Tools_ edX.pdf)
+    - [Data Science: Wrangling](../assets/HarvardX PH125.6x Certificate Wrangling_ edX.pdf)
+    - [Data Science: Linear Regression](../assets/HarvardX PH125.7x Certificate Linear Regression_ edX.pdf)
+    - [Data Science: Machine Learning](../assets/HarvardX PH125.8x Certificate Machine Learning_ edX.pdf)
 
 
 ## Mathematical Modeling
   **The following are the prize I earned in the competitions**  
-  - Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize
-  - Asia-Pacific Mathematical Modeling Competition (contest in English), International Third Prize
-  - China Undergraduate Mathematical Contest in Modelling（CUMCM）, Second Prize
+  - Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition (Chinese Division), International Second Prize.pdf)
+  - Asia-Pacific Mathematical Modeling Competition (contest in English), International Third Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition, International Third Prize.pdf)
+  - China Undergraduate Mathematical Contest in Modelling（CUMCM）, Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
+
