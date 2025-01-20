@@ -8,7 +8,7 @@ date: 2025-01-10
 location: "Beijing, P.R.China"
 ---
 <br/>
-__ This is a description of my studies experience in data science. __ 
+__This is a description of my studies experience in data science.__ 
 <br/>__Click on the <font color=lightblue>light blue words</font> to view the corresponding supporting documents.__
 
 ## Statement: 
@@ -18,7 +18,7 @@ Based on this understanding, I enrolled in a summer course at the University of 
 
 After gaining an initial foothold, I chose to further my studies through an online course offered by [Harvard University on the edX](https://www.edx.org/certificates/professional-certificate/harvardx-data-science). At the same time, to help me be more  proficient  in practical usage, I participated in several mathematical modeling competitions and completed a paper on financial mathematical modeling.
 
-So, the studies and practical using in mathematical competitions help me have a good command of analysis tools such as __ Python, MATLAB, and R __, and use these tools for data analysis, machine learning, and other tasks. This not only supports my academic research but also lays a solid foundation for my career development.
+So, the studies and practical using in mathematical competitions help me have a good command of analysis tools such as __Python, MATLAB, and R__, and use these tools for data analysis, machine learning, and other tasks. This not only supports my academic research but also lays a solid foundation for my career development.
 
 I firmly believe that the study of data science will help me to solve complex problems, open up broader career paths for my future, and enable me to achieve higher goals in both academic and professional realms.
 
