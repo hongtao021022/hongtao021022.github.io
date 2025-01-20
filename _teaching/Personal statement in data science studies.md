@@ -23,9 +23,9 @@ This is a description of my studies experience in data science.
 
 我坚信，数据科学的学习将为我解锁更多解决复杂问题的工具，为我的未来开辟更广阔的职业道路，助力我在学术与职业领域实现更高远的目标。
 
-The fellow is the details and materials
+## The fellow is the details and materials
 
-__ It contains three parts: __
+** It contains three parts: **
 - Summer program in the University of Hongkong
 - Harvard edx courses
 - Participating in Mathematical Modeling Competition
@@ -34,13 +34,15 @@ __ It contains three parts: __
 ## Data science course in The University of Hong Kong
   **Program name is Data Science for Beginners: Theory, Algorithms and Applications**  
   - __This is the start of my studies in data science__
-  - __Relevant courses:__Neural Network; Nonlinear Programming; Genetic Algorithm
+  - __Relevant courses:__ Neural Network; Nonlinear Programming; Genetic Algorithm
 
 
 ## Harvards edx courses
   **Professional Certificate inData Science**  
-  - This is the start of my studies in data science.
-  -__Relevant courses:__Data Science: R Basics
+  - __This is the start of my studies in data science__
+  - __Relevant courses:__
+
+Data Science: R Basics
 
 Data Science: Visualization
 
