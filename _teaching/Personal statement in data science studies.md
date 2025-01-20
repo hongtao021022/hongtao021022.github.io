@@ -25,9 +25,9 @@ This is a description of my studies experience in data science.
 
 ## The fellow is the details and materials
 
-** It contains three parts: **
-- Summer program in the University of Hongkong
-- Harvard edx courses
+  **It contains three parts:**
+- Summer program in the University of Hong Kong
+- Harvard edx courses——Professional Certificate inData Science
 - Participating in Mathematical Modeling Competition
 
 
