@@ -39,24 +39,16 @@ This is a description of my studies experience in data science.
 
 ## Harvards edx courses
   **Professional Certificate inData Science**  
-  - __This is the start of my studies in data science__
-  - __Relevant courses:__
-
-Data Science: R Basics
-
-Data Science: Visualization
-
-Data Science: Probability
-
-Data Science: Inference and Modeling
-
-Data Science: Productivity Tools
-
-Data Science: Wrangling
-
-Data Science: Linear Regression
-
-Data Science: Machine Learning
+- __This is the start of my studies in data science__
+- __Relevant courses:__
+    - Data Science: R Basics
+    - Data Science: Visualization
+    - Data Science: Probability
+    - Data Science: Inference and Modeling
+    - Data Science: Productivity Tools
+    - Data Science: Wrangling
+    - Data Science: Linear Regression
+    - Data Science: Machine Learning
 
 
 ## Mathematical Modeling
