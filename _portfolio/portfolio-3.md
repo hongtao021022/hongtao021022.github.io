@@ -18,7 +18,7 @@ collection: portfolio
  - Completing departmental personnel and administrative affairs, including daily document processing, talent recruitment and other administrative and personnel-related work; and
  - Participate in campus recruitment and establish contact with university student organizations
 Complete other matters assigned by the leadership.
- - Certificate of Internship](../files/08-Internship Certificate from Guosen Securities.pdf)  here
+ - [Certificate of Internship](../files/08-Internship Certificate from Guosen Securities.pdf)  here
 
 
 ## 03. Zhongguancun Forum 2023
