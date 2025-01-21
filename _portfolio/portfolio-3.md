@@ -1,11 +1,11 @@
 ---
-title: "其他社会活动——中国国际服务贸易交易会"
+title: "Others——Internship/Volunteer"
 excerpt: "请在这里评价我的组织能力<br/>
-<img src='/images/Stu-union.png'>"
+<img src='/images/CIFTIS.png'>"
 collection: portfolio
 ---
 
-### 联络部部长职责
+### 中国国际服务贸易交易会
 
 作为联络部部长，我承担着为北京大学国家发展研究院经济学项目的学生与社会企业建立联系、合作的职责，帮助同学们参与社会实践。
 
@@ -14,3 +14,5 @@ collection: portfolio
 - 策划并执行国家统计局的参观项目，参与人数超过30人。
 - 带领北大师生前往美团总部进行参访活动，参与人数达40人以上。
 - 组织全球化智库的参访活动，参与人数超过30人。
+
+### 中国国际服务贸易交易会
