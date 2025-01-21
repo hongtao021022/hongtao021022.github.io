@@ -40,7 +40,7 @@ The following is the changes and innovation which I made during my duty as direc
 - Co-organized a sharing workshop on secondary market employment, __80+ participants__ 
 
 ## Here are details of my jobs
-**<font size=5>Deepening - Lecture & Internship Program at Guosen Securities Co</font>** 
+**<font size=5>1. Deepening - Lecture & Internship Program at Guosen Securities Co</font>** 
 
 The project was an idea I had during my first year in the Student Union, which I later took as a campaign promise and eventually became the Head of Liaison. As a result, I began to actively make contacts at the beginning of my term, and finally, at the end of October, we reached a cooperation agreement with Guosen Securities, and established the cooperation with them.
 
@@ -65,11 +65,14 @@ During my term of office, internationalization has been one of my main concerns,
   - As a key internationalization project, I organized a study and visit to the Asian Infrastructure Investment Bank (AIIB) for members of the Student Union. The purpose of this event was to give students the opportunity to learn first-hand about the important role of the ADB as an international financial institution in promoting economic development in the Asian region. At the ADB, we not only visited its headquarters, but also listened to experts from the field of international finance explaining how it promotes regional integration, sustainable development and other important issues by financing infrastructure projects.
 <img src='/images/AIIB01.png'>
 
-**<font size=5>3. 多元化——纷繁多样的活动汇总</font>** 
+**<font size=5>3. Diversity - Other activities</font>** 
 
-这一部分是其他活动的剪影，供您参考
-- 组织参观中国互联网巨头企业——联想集团，参与人数40+
+This part is the silhouette of other activities for your reference
+- Organized a visit to Lenovo Group, China's Internet giant, with 40+ participants.
+<img src='/images/Stu-union.png'>
+- Organized online study abroad sharing session, with around 100 participants.
+  - [https://mp.weixin.qq.com/s/eKBCroSYrrQB7nove_rpcw](https://mp.weixin.qq.com/s/eKBCroSYrrQB7nove_rpcw)
+- Co-organized a sharing session on employment in secondary market, with 100+ participants.
+  - [https://mp.weixin.qq.com/s/ahmXHRkcK5QEmtt34Fz_ug](https://mp.weixin.qq.com/s/ahmXHRkcK5QEmtt34Fz_ug)
 
-- 组织线上留学分享会，参与人数100左右
-- 协办二级市场就业分享会，参与人数100+
 
