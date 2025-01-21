@@ -1,6 +1,6 @@
 ---
-title: "03. Others——Internship/Volunteer"
-excerpt: "Click to see the details<br/>
+title: "03.Others——Internship/Volunteer"
+excerpt: " - Click the above to see the details<br/>
 <img src='/images/CIFTIS.png'>"
 collection: portfolio
 ---
