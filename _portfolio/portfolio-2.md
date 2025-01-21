@@ -39,7 +39,7 @@ The following is the changes and innovation which I made during my duty as direc
 - Organized online study abroad sharing session, with __100+ participants__ 
 - Co-organized a sharing workshop on secondary market employment, __80+ participants__ 
 
-## Here are details of my jobs
+### Here are details of my jobs
 **<font size=5>Deepening - Lecture & Internship Program at Guosen Securities Co</font>** 
 
 The project was an idea I had during my first year in the Student Union, which I later took as a campaign promise and eventually became the Head of Liaison. As a result, I began to actively make contacts at the beginning of my term, and finally, at the end of October, we reached a cooperation agreement with Guosen Securities, and established the cooperation with them.
@@ -63,7 +63,7 @@ During my term of office, internationalization has been one of my main concerns,
 
 - Visits to International Organizations - Study and Visit to the Asian Infrastructure Investment Bank (AIIB)
   - As a key internationalization project, I organized a study and visit to the Asian Infrastructure Investment Bank (AIIB) for members of the Student Union. The purpose of this event was to give students the opportunity to learn first-hand about the important role of the ADB as an international financial institution in promoting economic development in the Asian region. At the ADB, we not only visited its headquarters, but also listened to experts from the field of international finance explaining how it promotes regional integration, sustainable development and other important issues by financing infrastructure projects.
-<img src='/images/AIIB.png'>
+<img src='/images/AIIB01.png'>
 
 **<font size=5>3. 多元化——纷繁多样的活动汇总</font>** 
 
