@@ -39,7 +39,7 @@ The following is the changes and innovation which I made during my duty as direc
 - Organized online study abroad sharing session, with __100+ participants__ 
 - Co-organized a sharing workshop on secondary market employment, __80+ participants__ 
 
-### Here are details of my jobs
+# Here are details of my jobs
 **<font size=5>Deepening - Lecture & Internship Program at Guosen Securities Co</font>** 
 
 The project was an idea I had during my first year in the Student Union, which I later took as a campaign promise and eventually became the Head of Liaison. As a result, I began to actively make contacts at the beginning of my term, and finally, at the end of October, we reached a cooperation agreement with Guosen Securities, and established the cooperation with them.
