@@ -10,3 +10,20 @@ collection: portfolio
  - Participate in the International Trade in Services Fair for three consecutive years since 2021 as a Commercial Assistant of HKTDC.
  - Responsible for receiving media interviews, e.g. Beijing TV; receiving regional departmental leaders to visit the exhibition halls and introduce the services and trade policies of Hong Kong region.
  - Responsible for organizing and servicing the whole process of exhibitors on-site within the fair, and handling various emergencies.
+ - [Certificate](../images/CIFTIS_proof.png) and [photo](../images/CIFTIS_interview.png) of my Interviewed by Beijing TV during work
+
+## 02.  Guoxin Securities Co., Ltd. Beijing Branch
+**Internship in Sales Department,  Jul 2023 - Oct 2023**
+ - Assisting the general manager of the sales department in statistics of sales data, analyzing performance output and other comprehensive operational work.
+ - Completing departmental personnel and administrative affairs, including daily document processing, talent recruitment and other administrative and personnel-related work; and
+ - Participate in campus recruitment and establish contact with university student organizations
+Complete other matters assigned by the leadership.
+ - Certificate of Internship](../files/08-Internship Certificate from Guosen Securities.pdf)  here
+
+
+## 03. Zhongguancun Forum 2023
+**Volunteer in conference, May 2023**
+ - Serve every forum as a forum volunteer and guide the guests as a volunteer.
+ - Worked for three days, the scale of each conference's particpatants size is 300+.
+ - [Certificate](../files/06-ZGC forum certificate.pdf) Click here
+
