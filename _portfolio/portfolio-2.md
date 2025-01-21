@@ -14,7 +14,7 @@ In my first year as a member, I familiarized myself with and took charge of the 
 **September 2022 – July 2023**
 <br/>During this academic year, as a member of the Liaison Department, I was responsible for the following project.
 - Organized a visit program with over 40 students from Peking University to the headquarters of [Meituan](A Tech-driven Retail Company) for a visit, which is A leading Tech-driven Retail Company in China
-- Planned and executed a visit program for the National Bureau of Statistics, P.R.China with over 30 participants.
+- Planned and executed a visit program for the [National Bureau of Statistics, P.R.China](https://www.stats.gov.cn/english/) with over 30 participants.
 
 
 Thus, as you can see that, the main activities' form of my department in this year was visiting program. So I think here we can make a progress to innovate the form of projects and enrich our activities.
@@ -24,9 +24,9 @@ The following is the changes and innovation which I made during my duty as direc
 ## Second year: Director of Liaison Department
 **September 2023 – July 2024**
 <br/>During the year, as the head of the Liaison Department, I led my members to innovate in three areas
-1. __Deepening - From visiting programs to cooperating program: __My department successfully promoted a lecture & internship project with [Guosen Securities](https://en.wikipedia.org/wiki/Guosen_Securities), a famous securities company in China.
-2. __Internationalization - From domestic to international: __During my term, I successfully promoted the student union to visit the [Asian Infrastructure Investment Bank](https://www.aiib.org/en/about-aiib/index.html), and hold a project with [CCG](http://en.ccg.org.cn/overview), which is the NO.1 Think Tank in China private sector.
-3. __Diversification - Expanding the forms of activities: __Besides the projects shown before, I still lead the team to organizing the study abroad sharing workshop online, financial industry lectures, etc., instead of just visits.
+1. __ Deepening - From visiting programs to cooperating program: __My department successfully promoted a lecture & internship project with [Guosen Securities](https://en.wikipedia.org/wiki/Guosen_Securities), a famous securities company in China.
+2. __ Internationalization - From domestic to international: __During my term, I successfully promoted the student union to visit the [Asian Infrastructure Investment Bank](https://www.aiib.org/en/about-aiib/index.html), and hold a project with [CCG](http://en.ccg.org.cn/overview), which is the NO.1 Think Tank in China private sector.
+3. __ Diversification - Expanding the forms of activities: __Besides the projects shown before, I still lead the team to organizing the study abroad sharing workshop online, financial industry lectures, etc., instead of just visits.
 
 **List of activity during my duty as director in Liaison Department**
 - on behalf of the Student Union to negotiated the Internship agreements with [Guosen Securities](https://en.wikipedia.org/wiki/Guosen_Securities), organized lectures & mock interviews with 40+ participants, made sure 10 internship positions for the Student Union.
