@@ -5,34 +5,36 @@ excerpt: "I'm used to serve as Director of Liaison Department in the Jingshuang 
 collection: portfolio
 ---
 <br/>
-联络部是经双学生会重要的职能部门之一，承担着为北京大学国家发展研究院经济学项目的学生，同社会企业建立联系、帮助同学们参与社会实践的重要作用。我在第一年作为成员，熟悉并负责了部门里的主要项目，并于第二年开始担任部长，在原有的项目基础上不断创新，为部门带来了新的活动内容。
+The Liaison Department is the most important departments of the Jingshuang Student Union (JSSU). It undertakes the important role of maintaining connections with enterprises and organizing students enrolled in the Economics Program of the NSD, Peking University, to participate in social activities.
+
+In my first year as a member, I familiarized myself with and took charge of the main projects in the department, and in my second year, I began to serve as the head of the department, innovating on the basis of the original projects and bringing new activities to the department.
 
 
 ## First year: Member of Liaison Department
 **September 2022 – July 2023**
-<br/>这一年，作为联络部的成员，我负责的主要工作如下。
-- 带领北大师生前往美团总部进行参访活动，参与人数达40人以上。
-- 策划并执行国家统计局的参观项目，参与人数超过30人。
+<br/>During this academic year, as a member of the Liaison Department, I was responsible for the following project.
+- Organized a visit program with over 40 students from Peking University to the headquarters of [Meituan](A Tech-driven Retail Company) for a visit, which is A leading Tech-driven Retail Company in China
+- Planned and executed a visit program for the National Bureau of Statistics, P.R.China with over 30 participants.
 
 
-因此，您可以看到，在这一年，我所服务的部门主要的活动形式是参观访问<br/>
-但为了进一步履行同社会企业建立联系、帮助同学们参与社会实践的责任，在我的任职期间，我做出了以下改革
+Thus, as you can see that, the main activities' form of my department in this year was visiting program. So I think here we can make a progress to innovate the form of projects and enrich our activities.
+
+The following is the changes and innovation which I made during my duty as director.
 
 ## Second year: Director of Liaison Department
 **September 2023 – July 2024**
-<br/>在这一年，作为联络部的部长，我代领我的成员进行了三方面的创新
-1. 深度化——从参访到合作：我领导的部门，成功推动了同中国著名证券公司——国信证券公司的讲座&实习项目
-2. 国际化——从国内到国际：在我的任期内，我成功的推动了学生会前往亚投行组织参访
-3. 多样化——活动形式上不再拘泥于参访，组织线上留学分享会、金融行业讲座等
+<br/>During the year, as the head of the Liaison Department, I led my members to innovate in three areas
+1. __Deepening - From visiting programs to cooperating program: __My department successfully promoted a lecture & internship project with [Guosen Securities](https://en.wikipedia.org/wiki/Guosen_Securities), a famous securities company in China.
+2. __Internationalization - From domestic to international: __During my term, I successfully promoted the student union to visit the [Asian Infrastructure Investment Bank](https://www.aiib.org/en/about-aiib/index.html), and hold a project with [CCG](http://en.ccg.org.cn/overview), which is the NO.1 Think Tank in China private sector.
+3. __Diversification - Expanding the forms of activities: __Besides the projects shown before, I still lead the team to organizing the study abroad sharing workshop online, financial industry lectures, etc., instead of just visits.
 
 **List of activity during my duty as director in Liaison Department**
-- 代表学生会与国信证券洽谈实习协议，举办讲座&模拟面试，为学生会争取到10个实习岗位。
-- 组织参观中国互联网巨头企业——联想集团，参与人数40+
-- 组织全球化智库的参访活动，参与人数+30。
-- 组织参观亚洲基础设施投资银行，参与人数40+
-- 组织线上留学分享会，参与人数100左右
-- 协办二级市场就业分享会
-
+- on behalf of the Student Union to negotiated the Internship agreements with Guosen Securities, organized lectures & mock interviews with 40+ participants, made sure 10 internship positions for the Student Union.
+- Organized a visit to [Lenovo Group](https://www.lenovo.com/us/en/about/), China's Internet giant, with 40+ participants.
+- Organized a visit to the [CCG](http://en.ccg.org.cn/overview) Think Tank, with +30 participants.
+- Organized a visit to the [Asian Infrastructure Investment Bank](https://www.aiib.org/en/about-aiib/index.html), 40+ participants
+- Organized online study abroad sharing session, with 100+ participants
+- Co-organized a sharing workshop on secondary market employment, 80+ participants
 
 ## Here are details of my jobs
 **1. 深度化——国信证券公司的讲座&实习项目** 
@@ -71,5 +73,5 @@ Here is the [post](../images/Post.png) which we designed for this activity.
 
 - 组织参观中国互联网巨头企业——联想集团，参与人数40+
 - 组织线上留学分享会，参与人数100左右
-- 协办二级市场就业分享会
+- 协办二级市场就业分享会，参与人数100+
 
