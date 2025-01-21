@@ -40,7 +40,7 @@ The following is the changes and innovation which I made during my duty as direc
 - Co-organized a sharing workshop on secondary market employment, __80+ participants__ 
 
 ## Here are details of my jobs
-**1. Deepening - Lecture & Internship Program at Guosen Securities Co.** 
+**<font size=5>Deepening - Lecture & Internship Program at Guosen Securities Co</font>** 
 
 The project was an idea I had during my first year in the Student Union, which I later took as a campaign promise and eventually became the Head of Liaison. As a result, I began to actively make contacts at the beginning of my term, and finally, at the end of October, we reached a cooperation agreement with Guosen Securities, and established the cooperation with them.
 
@@ -49,15 +49,12 @@ At the beginning of December, we hold the activity which has two-part cooperatio
 This was the first time ever that the Student Union had organized this type of event, and it was also honored as the most well-received program during that year. Many people said that the program gave them their first opportunity to communicate directly with seniors in the securities industry, and that they learned about career development in the securities industry.
 
  __here are some picture or post of this activity:__ 
-
-Here is the [photo](../images/Guosen_activity.png) which we took at the end of activity
-Here is the [poster](../images/Post.png) which we designed for this activity.
-
-This is the WeChat feed article(In Chinese)：[https://mp.weixin.qq.com/s/fwOWcduaGS76Imhs4hzlHA](https://mp.weixin.qq.com/s/fwOWcduaGS76Imhs4hzlHA)
+ - Here is the [photo](../images/Guosen_activity.png) which we took at the end of activity
+ - Here is the [poster](../images/Post.png) which we designed for this activity.
+ - This is the WeChat feed article(In Chinese)：[https://mp.weixin.qq.com/s/fwOWcduaGS76Imhs4hzlHA](https://mp.weixin.qq.com/s/fwOWcduaGS76Imhs4hzlHA)
 <br/>（Note: you may need to use your browser's translation function if you wish to review it.）
 
-
-**2. Internationalization - CCG Think Tank Visit & AIIB** 
+**<font size=5>2. Internationalization - CCG Think Tank Visit & AIIB</font>** 
 
 During my term of office, internationalization has been one of my main concerns, and I have actively promoted a number of internationalization programs in order to broaden students' international perspectives and raise their awareness of global affairs. Two of the landmark projects were the “Visit to the Center for Globalization Studies” and the “Visit to the Asian Infrastructure Investment Bank (AIIB)” organized by the Student Union.
 
@@ -68,9 +65,11 @@ During my term of office, internationalization has been one of my main concerns,
   - As a key internationalization project, I organized a study and visit to the Asian Infrastructure Investment Bank (AIIB) for members of the Student Union. The purpose of this event was to give students the opportunity to learn first-hand about the important role of the ADB as an international financial institution in promoting economic development in the Asian region. At the ADB, we not only visited its headquarters, but also listened to experts from the field of international finance explaining how it promotes regional integration, sustainable development and other important issues by financing infrastructure projects.
 <img src='/images/AIIB.png'>
 
-**3. 多元化——纷繁多样的活动汇总** 
+**<font size=5>3. 多元化——纷繁多样的活动汇总</font>** 
 
+这一部分是其他活动的剪影，供您参考
 - 组织参观中国互联网巨头企业——联想集团，参与人数40+
+
 - 组织线上留学分享会，参与人数100左右
 - 协办二级市场就业分享会，参与人数100+
 
