@@ -24,9 +24,9 @@ The following is the changes and innovation which I made during my duty as direc
 ## Second year: Director of Liaison Department
 **September 2023 – July 2024**
 <br/>During the year, as the head of the Liaison Department, I led my members to innovate in three areas
-1. __ Deepening - From visiting programs to cooperating program: __My department successfully promoted a lecture & internship project with [Guosen Securities](https://en.wikipedia.org/wiki/Guosen_Securities), a famous securities company in China.
-2. __ Internationalization - From domestic to international: __During my term, I successfully promoted the student union to visit the [Asian Infrastructure Investment Bank](https://www.aiib.org/en/about-aiib/index.html), and hold a project with [CCG](http://en.ccg.org.cn/overview), which is the NO.1 Think Tank in China private sector.
-3. __ Diversification - Expanding the forms of activities: __Besides the projects shown before, I still lead the team to organizing the study abroad sharing workshop online, financial industry lectures, etc., instead of just visits.
+- __Deepening - From visiting programs to cooperating program:__ My department successfully promoted a lecture & internship project with [Guosen Securities](https://en.wikipedia.org/wiki/Guosen_Securities), a famous securities company in China.
+- __Internationalization - From domestic to international:__ During my term, I successfully promoted the student union to visit the [Asian Infrastructure Investment Bank](https://www.aiib.org/en/about-aiib/index.html), and hold a project with [CCG](http://en.ccg.org.cn/overview), which is the NO.1 Think Tank in China private sector.
+- __Diversification - Expanding the forms of activities:__ Besides the projects shown before, I still lead the team to organizing the study abroad sharing workshop online, financial industry lectures, etc., instead of just visits.
 
 **List of activity during my duty as director in Liaison Department**
 - on behalf of the Student Union to negotiated the Internship agreements with [Guosen Securities](https://en.wikipedia.org/wiki/Guosen_Securities), organized lectures & mock interviews with 40+ participants, made sure 10 internship positions for the Student Union.
