@@ -38,6 +38,9 @@ The following is the changes and innovation which I made during my duty as direc
 - Organized a visit to the [Asian Infrastructure Investment Bank](https://www.aiib.org/en/about-aiib/index.html), __40+ participants__ 
 - Organized online study abroad sharing session, with __100+ participants__ 
 - Co-organized a sharing workshop on secondary market employment, __80+ participants__ 
+<br/>
+<br/>
+<br/>
 
 ## Here are details of my jobs
 **<font size=5>1. Deepening - Lecture & Internship Program at Guosen Securities Co</font>** 
