@@ -1,5 +1,5 @@
 ---
-title: "Leadership & Organizational Capability —— My experience in Jingshuang Student Union, National School of Development, Peking University "
+title: "02. Leadership & Organizational Capability —— My experience in Jingshuang Student Union, National School of Development, Peking University "
 excerpt: "I'm used to serve as Director of Liaison Department in the Jingshuang Student Union at Peking University, I would be delighted if you could evaluate my organizational skills here.<br/>
 <img src='/images/Stu-union.png'>"
 collection: portfolio
