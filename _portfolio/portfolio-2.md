@@ -29,7 +29,7 @@ The following is the changes and innovation which I made during my duty as direc
 3. __Diversification - Expanding the forms of activities: __Besides the projects shown before, I still lead the team to organizing the study abroad sharing workshop online, financial industry lectures, etc., instead of just visits.
 
 **List of activity during my duty as director in Liaison Department**
-- on behalf of the Student Union to negotiated the Internship agreements with Guosen Securities, organized lectures & mock interviews with 40+ participants, made sure 10 internship positions for the Student Union.
+- on behalf of the Student Union to negotiated the Internship agreements with [Guosen Securities](https://en.wikipedia.org/wiki/Guosen_Securities), organized lectures & mock interviews with 40+ participants, made sure 10 internship positions for the Student Union.
 - Organized a visit to [Lenovo Group](https://www.lenovo.com/us/en/about/), China's Internet giant, with 40+ participants.
 - Organized a visit to the [CCG](http://en.ccg.org.cn/overview) Think Tank, with +30 participants.
 - Organized a visit to the [Asian Infrastructure Investment Bank](https://www.aiib.org/en/about-aiib/index.html), 40+ participants
