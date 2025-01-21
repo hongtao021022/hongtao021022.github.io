@@ -32,7 +32,7 @@ The following is the changes and innovation which I made during my duty as direc
   - Besides the projects shown before, I still lead the team to organizing the study abroad sharing workshop online, financial industry lectures, etc., instead of just visits.
 
 **List of activity during my duty as director in Liaison Department**
-- on behalf of the Student Union to negotiated the Internship agreements with [Guosen Securities](https://en.wikipedia.org/wiki/Guosen_Securities), organized lectures & mock interviews with __40+ participants__ , made sure 10 internship positions for the Student Union.
+- On behalf of the Student Union to negotiated the Internship agreements with [Guosen Securities](https://en.wikipedia.org/wiki/Guosen_Securities), organized lectures & mock interviews with __40+ participants__ , made sure 10 internship positions for the Student Union.
 - Organized a visit to [Lenovo Group](https://www.lenovo.com/us/en/about/), China's Internet giant, with __40+ participants__ 
 - Organized a visit to the [CCG](http://en.ccg.org.cn/overview) Think Tank, with __30+ participants__
 - Organized a visit to the [Asian Infrastructure Investment Bank](https://www.aiib.org/en/about-aiib/index.html), __40+ participants__ 
@@ -40,37 +40,33 @@ The following is the changes and innovation which I made during my duty as direc
 - Co-organized a sharing workshop on secondary market employment, __80+ participants__ 
 
 ## Here are details of my jobs
-**1. 深度化——国信证券公司的讲座&实习项目** 
+**1. Deepening - Lecture & Internship Program at Guosen Securities Co.** 
 
-该项目是我第一年在学生会工作时候的一个构想，后来我将其作为竞选承诺并最终担任了联络部部长。因此，我于刚上任初期就开始积极进行联络，并最终于10月底，同国信证券达成合作意向，确立了我们的合作形式。
+The project was an idea I had during my first year in the Student Union, which I later took as a campaign promise and eventually became the Head of Liaison. As a result, I began to actively make contacts at the beginning of my term, and finally, at the end of October, we reached a cooperation agreement with Guosen Securities, and established the cooperation with them.
 
-最终，我们于12月初，确立了合作形式为模拟面试+讲座的两部分形式。我们争取到了五个部门的实习机会，每个部门有两个实习名额。所有的同学可以根据意向直接参与面试，也可以选择模拟面试（即不参与实习名额的竞争），得到面试反馈。然后在面试结束之后，我们组织参与讲座，介绍证券公司的日常工作内容，以及未来的职业发展。
+At the beginning of December, we hold the activity which has two-part cooperation: the mock interviews and career lectures. We secured internships in five departments, with two internships chances in each department. All students could participate in the interviews directly or only choose to have a mock interview (i.e. not compete for internships) and get feedback on the interviews. Then after the interviews, we organized participation lectures on the daily work of a securities firm and future career development.
 
-这是学生会有史以来第一次举办该类型的活动，也是我作为学生会部长，最受好评的项目。很多人表示该项目给了他们第一次同证券行业前辈进行直接交流的机会，并表示从中了解到了证券行业的职业发展。
+This was the first time ever that the Student Union had organized this type of event, and it was also honored as the most well-received program during that year. Many people said that the program gave them their first opportunity to communicate directly with seniors in the securities industry, and that they learned about career development in the securities industry.
 
-该内容可以参考我们的推送反馈：[https://mp.weixin.qq.com/s/fwOWcduaGS76Imhs4hzlHA](https://mp.weixin.qq.com/s/fwOWcduaGS76Imhs4hzlHA)
-<br/>（注：该链接为中文界面，如要审阅可能需要您使用浏览器有关翻译功能）
-
-以下为该活动照片
+ __here are some picture or post of this activity:__ 
 
 Here is the [photo](../images/Guosen_activity.png) which we took at the end of activity
+Here is the [poster](../images/Post.png) which we designed for this activity.
 
-Here is the [post](../images/Post.png) which we designed for this activity.
-
-
-
-**2. 国际化——全球化智库参访&亚投行** 
-
-在我的任期内，国际化发展是我关注的重点之一，为了拓宽学生的国际视野、提升其对全球事务的认知，我积极推动了多个国际化项目的建设。其中，两个具有标志性的项目就是学生会组织的“全球化研究中心参观”以及“亚洲基础设施投资银行（亚投行）参访”。
-
-- 从企业到智库——组织前往全球化研究中心进行参观访问
-  - 该项目通过学生会组织参观全球化研究中心，提供了学生了解国际政治、经济、文化等方面的机会。邀请不同学科的专家学者举办讲座与座谈会，探讨国际贸易、跨国企业运作、全球治理等议题，并安排与智库学者的互动交流，促进学生思考全球化与地方发展的关系，提升其对全球经济和国际政策的敏锐度。通过这些活动，学生的国际视野得到拓展，跨文化沟通和批判性思维能力得以增强。
-
-- 组织国际组织参访——亚洲基础设施投资银行学习与访问
-  - 作为另一个重点国际化项目，我组织了学生会成员前往亚洲基础设施投资银行（亚投行）进行学习和参访。这一活动的目的是让学生们有机会亲身了解亚投行作为国际金融机构在推动亚洲区域经济发展中的重要作用。在亚投行，我们不仅参观了其总部，还聆听了来自国际金融领域的专家讲解其如何通过资助基础设施项目促进区域一体化、可持续发展等重大议题。通过与亚投行相关负责人的座谈和交流，同学们对国际经济合作和多边金融体系有了更加深入的理解，学会了如何在全球化背景下进行跨国合作和资源整合。
+This is the WeChat feed article(In Chinese)：[https://mp.weixin.qq.com/s/fwOWcduaGS76Imhs4hzlHA](https://mp.weixin.qq.com/s/fwOWcduaGS76Imhs4hzlHA)
+<br/>（Note: you may need to use your browser's translation function if you wish to review it.）
 
 
-这些项目不仅为学生提供了与国际组织、智库和跨国企业直接接触的机会，也促进了学校在国际化发展上的进一步突破。通过这一系列活动，学生们不仅在学术上获得了深刻的启发，也在思想和视野上得到了极大的扩展，为其未来的职业生涯和国际化发展奠定了坚实的基础。
+**2. Internationalization - CCG Think Tank Visit & AIIB** 
+
+During my term of office, internationalization has been one of my main concerns, and I have actively promoted a number of internationalization programs in order to broaden students' international perspectives and raise their awareness of global affairs. Two of the landmark projects were the “Visit to the Center for Globalization Studies” and the “Visit to the Asian Infrastructure Investment Bank (AIIB)” organized by the Student Union.
+
+- From Business to Think Tank - Visit to the Center for the Study of Globalization
+  - The program organizes visits to the Center for the Study of Globalization (CSG), invites experts and scholars in related fields to hold lectures and symposiums to discuss international trade, the operation of multinational corporations, and global governance, as well as to interact with scholars from think tanks.
+
+- Visits to International Organizations - Study and Visit to the Asian Infrastructure Investment Bank (AIIB)
+  - As a key internationalization project, I organized a study and visit to the Asian Infrastructure Investment Bank (AIIB) for members of the Student Union. The purpose of this event was to give students the opportunity to learn first-hand about the important role of the ADB as an international financial institution in promoting economic development in the Asian region. At the ADB, we not only visited its headquarters, but also listened to experts from the field of international finance explaining how it promotes regional integration, sustainable development and other important issues by financing infrastructure projects.
+<img src='/images/AIIB.png'>
 
 **3. 多元化——纷繁多样的活动汇总** 
 
