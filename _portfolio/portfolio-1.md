@@ -30,3 +30,9 @@ The friendship snowman of Germany and China
 
 <img src='/images/With Paralympic Team D.jpg'>
 This photo was taken with the German Paralympic Committee as a memorial
+
+Other photos: 
+<img src='/images/Photo in ceremony.jpg'>
+
+Thanks letter:
+<img src='/images/Thanks letters.jpg'>
