@@ -31,25 +31,25 @@ I'm a full-time study undergraduate studying at [School of Economics in Beijing 
 
 ## Academic Background
 
-- **Beijing International Studies University**  
+**Beijing International Studies University**  
   *Bachelor of economics, major in International Economics and Trade (2020 - 2025)*  
   GPA: 87.5/100 | Top 10% in Class  
   - __Relevant courses（full score 100）__: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
   - __Math course__: Statistics92, Calculus 82, Linear Algebra 81, Probability and Statistics 82 
   - __Scholarships__: Wu Tong Medal & Scholarship, Second Class Academic Excellence Scholarship, "Three Good Student" Award.
 
- - **Multi-major in International Affairs and Relations**  
+  *Multi-major in International Affairs and Relations*
   [Transcript click here](../files/04-BISU-Multi-major-transcript.pdf)
   <br/>GPA: 85.2/100 
-  - __Relevant courses（full score 100）__: Introductionto International Affairs 85, Contemporary International Relations 89, American Politics,Economics and Foreign Relations 90.etc
-  - __Course work paper__: Is Democracy Equal to the Right to Vote? –An Analysis of Substantive and Procedural Democracy in the United States
+   - __Relevant courses（full score 100）__: Introductionto International Affairs 85, Contemporary International Relations 89, American Politics,Economics and Foreign Relations 90.etc
+   - __Course work paper__: Is Democracy Equal to the Right to Vote? –An Analysis of Substantive and Procedural Democracy in the United States
 
-- **Peking University**  
+**Peking University**  
   *Minor in Economics (2022 - 2025)*  
   - __Relevant courses__: Economometrics, Applied Microeconometrics, Urban Economics,Economic Philosophy, China Economic Topics.  
   - Research: Topics include economic decentralization, hidden debt in China, and fiscal policy reform.  
 
-- **The University of Hong Kong**  
+**The University of Hong Kong**  
   *Summer Program in Data Science (2023)*  
   - Program: "Data Science for Beginners: Theory, Algorithms and Applications"  
   - Relevant topics: Neural Networks, Nonlinear Programming, Genetic Algorithms.
@@ -95,7 +95,7 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
   *Business Assistant for the China International Fair for Trade in Services (2021 - 2023)*  
   - Coordinated with regional leaders, introduced Hong Kong trade policies, and managed on-site exhibitors.
 
-- **Guoxin Securities Co., Ltd. Beijing Branch**
+- **Guoxin Securities Co., Ltd. Beijing Branch**<br/>
   *Internship in Sales Department, Jul 2023 - Oct 2023*
    - Assisting the general manager of the sales department in statistics of sales data, analyzing performance output and other comprehensive operational work.
    - Completing departmental personnel and administrative affairs, including daily document processing, talent recruitment and other administrative and personnel-related work; and
