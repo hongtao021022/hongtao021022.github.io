@@ -36,9 +36,9 @@ I'm a full-time study undergraduate studying at [School of Economics in Beijing 
   GPA: 87.5/100 | Top 10% in Class  
   - __Relevant courses（full score 100）__: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
   - __Math course__: Statistics92, Calculus 82, Linear Algebra 81, Probability and Statistics 82 
-  - Scholarships: Wu Tong Medal & Scholarship, Second Class Academic Excellence Scholarship, "Three Good Student" Award.
+  - __Scholarships__: Wu Tong Medal & Scholarship, Second Class Academic Excellence Scholarship, "Three Good Student" Award.
 
-**Multi-major in International Affairs and Relations**  
+ - **Multi-major in International Affairs and Relations**  
   [Transcript click here](../files/04-BISU-Multi-major-transcript.pdf)
   <br/>GPA: 85.2/100 
   - __Relevant courses（full score 100）__: Introductionto International Affairs 85, Contemporary International Relations 89, American Politics,Economics and Foreign Relations 90.etc
@@ -97,9 +97,9 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 
 - **Guoxin Securities Co., Ltd. Beijing Branch**
   *Internship in Sales Department, Jul 2023 - Oct 2023*
- - Assisting the general manager of the sales department in statistics of sales data, analyzing performance output and other comprehensive operational work.
- - Completing departmental personnel and administrative affairs, including daily document processing, talent recruitment and other administrative and personnel-related work; and
- - Participate in campus recruitment and establish contact with university student organizations; complete other matters assigned by the leadership.
+   - Assisting the general manager of the sales department in statistics of sales data, analyzing performance output and other comprehensive operational work.
+   - Completing departmental personnel and administrative affairs, including daily document processing, talent recruitment and other administrative and personnel-related work; and
+   - Participate in campus recruitment and establish contact with university student organizations; complete other matters assigned by the leadership.
 
 ---
 
@@ -107,22 +107,22 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 
 - **On working**  
   *Three-Dimensional UAV Path Planning in Urban Environments Based on an Improved Parrot Optimization Algorithm*  
-  - This is under revision and excepted to be published as SCI paper in this year.  
-  - After my series studies in data science ,I choose to make a trial in algorithms.
+    - This is under revision and excepted to be published as SCI paper in this year.  
+    - After my series studies in data science ,I choose to make a trial in algorithms.
 
 - **Mathematical Model**  
   *Design of Investment Risk Control Model for Securities Market Based on Market Factors*  
-  - This is one of the works which we completed during the Mathematical Model competitions.  
+    - This is one of the works which we completed during the Mathematical Model competitions.  
 
 - **Conference Papers**  
-1. *"NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation"**  
-   - 6th International Conference on Economic Management and Green Development (2022)*  
+  *"NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation"**  
+     - 6th International Conference on Economic Management and Green Development (2022)*  
 
-2. *"Is Democracy Equal to the Right to Vote? -- An Analysis of Substantive and Procedural Democracy in the U.S."**  
+  *"Is Democracy Equal to the Right to Vote? -- An Analysis of Substantive and Procedural Democracy in the U.S."**  
    - PESD 2022 International Academic Conference (2022)*  
 
-3. *"The Process of Financialization in the Industrialized Economies: In the Perspective of the Credit-Money System"**  
-   - 2nd International Conference on Economy and Finance, Enterprise Reform, and Marketing Research (2024)*  
+  *"The Process of Financialization in the Industrialized Economies: In the Perspective of the Credit-Money System"**  
+     - 2nd International Conference on Economy and Finance, Enterprise Reform, and Marketing Research (2024)*  
 
 ---
 
