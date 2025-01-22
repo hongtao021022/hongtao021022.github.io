@@ -115,13 +115,13 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
     - This is one of the works which we completed during the Mathematical Model competitions.  
 
 - **Conference Papers**  
-  *"NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation"**  
-     - 6th International Conference on Economic Management and Green Development (2022)*  
+  *NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation*  
+     - 6th International Conference on Economic Management and Green Development (2022)  
 
-  *"Is Democracy Equal to the Right to Vote? -- An Analysis of Substantive and Procedural Democracy in the U.S."**  
+  *Is Democracy Equal to the Right to Vote? -- An Analysis of Substantive and Procedural Democracy in the U.S.*  
    - PESD 2022 International Academic Conference (2022)*  
 
-  *"The Process of Financialization in the Industrialized Economies: In the Perspective of the Credit-Money System"**  
+  *The Process of Financialization in the Industrialized Economies: In the Perspective of the Credit-Money System*  
      - 2nd International Conference on Economy and Finance, Enterprise Reform, and Marketing Research (2024)*  
 
 ---
