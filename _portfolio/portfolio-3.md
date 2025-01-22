@@ -20,7 +20,7 @@ collection: portfolio
  - [Certificate of Internship](../files/08-Internship Certificate from Guosen Securities.pdf)  here
 
 
-## 03. Zhongguancun Forum 2023
+## 03. [ZGC Forum](https://www.zgcforum.com.cn/en) 2023
 **Volunteer in conference, May 2023**
  - Serve every forum as a forum volunteer and guide the guests as a volunteer.
  - Worked for three days, the scale of each conference's particpatants size is 300+.
