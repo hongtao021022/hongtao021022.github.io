@@ -43,12 +43,14 @@ I'm a full-time study undergraduate studying at [School of Economics in Beijing 
   <br/>GPA: 85.2/100 
    - __Relevant courses（full score 100）__: Introductionto International Affairs 85, Contemporary International Relations 89, American Politics,Economics and Foreign Relations 90.etc
    - __Course work paper__: Is Democracy Equal to the Right to Vote? –An Analysis of Substantive and Procedural Democracy in the United States
-
+<br/>
+<br/>
 **Peking University**  
   *Minor in Economics (2022 - 2025)*  
   - __Relevant courses__: Economometrics, Applied Microeconometrics, Urban Economics,Economic Philosophy, China Economic Topics.  
   - Research: Topics include economic decentralization, hidden debt in China, and fiscal policy reform.  
-
+<br/>
+<br/>
 **The University of Hong Kong**  
   *Summer Program in Data Science (2023)*  
   - Program: "Data Science for Beginners: Theory, Algorithms and Applications"  
