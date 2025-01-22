@@ -7,26 +7,46 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year undergraduate student from [School of Economics,Beijing International Studies University ](https://en.bisu.edu.cn/), and a minor student of [National School of Development](https://en.nsd.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/). My research interests include **data analysis** and **economics**.
+I'm a full-time study undergraduate studying at [School of Economics in Beijing International Studies University ](https://en.bisu.edu.cn/), and [National School of Development](https://en.nsd.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/). 
 
-I am very fortunate to be advised by [Prof. Peng Cong](https://www.nsd.pku.edu.cn/), assistant professor at [National School of Development](https://en.nsd.pku.edu.cn/), Peking University, for my ongoing research on **urban economics** and **environmental economics**. Previously, I was advised by [Prof. Yao Yang](https://www.nsd.pku.edu.cn/), dean of the National School of Development, Peking University, for a research project funded by the **Peking University President Fund**.
+为了能够让来到这个网页的人对我进行全面准确的评估，我设计了这个网站
+它包括了五个部分，您可以根据详细查看相关内容：
+ - Academic Background
+   - 用于您评估我的学术背景
+ - RA-Experience
+   - 用于您评估我的相关能力
+ - Social Experience
+   - 用于您评估我的领导力
+ - Other Statements
+   - 我在数据科学上的学习经历，对于PhD道路的规划, 以及个人CV
+ - Publications
 
-You can find my CV here: [Hongtao Ma's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+点击对应位置的链接可以查看对应的材料，如成绩单，学业排名，相关证明等
 
 [Email](mailto:2200935143@stu.pku.edu.cn) / [Github](https://github.com/hongtao021022) 
+
+下面是所有部分所涵盖的项目罗列，您可以将其作为目录点击跳转
+（这也是我CV上的内容）
 ---
 
-## Education
+## Academic Background
 
 - **Beijing International Studies University**  
-  *Bachelor of International Economics and Trade (2020 - 2025)*  
-  GPA: 88/100 | Top 10% in Class  
-  - Relevant courses: Western Economics (Micro & Macro), Monetary Economics, International Trade, International Finance, Corporate Finance, Comprehensive English, English Speech.  
+  *Bachelor of economics, major in International Economics and Trade (2020 - 2025)*  
+  GPA: 87.5/100 | Top 10% in Class  
+  - __Relevant courses（full score 100）__: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
+  - __Math course__: Statistics92, Calculus 82, Linear Algebra 81, Probability and Statistics 82 
   - Scholarships: Wu Tong Medal & Scholarship, Second Class Academic Excellence Scholarship, "Three Good Student" Award.
+
+**Multi-major in International Affairs and Relations**  
+  [Transcript click here](../files/04-BISU-Multi-major-transcript.pdf)
+  <br/>GPA: 85.2/100 
+  - __Relevant courses（full score 100）__: Introductionto International Affairs 85, Contemporary International Relations 89, American Politics,Economics and Foreign Relations 90.etc
+  - __Course work paper__: Is Democracy Equal to the Right to Vote? –An Analysis of Substantive and Procedural Democracy in the United States
 
 - **Peking University**  
   *Minor in Economics (2022 - 2025)*  
-  - Relevant courses: Applied Microeconometrics, Urban Economics, Development Economics, Economic Philosophy, Public Policy, China Economic Topics (by Lin Yifu).  
+  - __Relevant courses__: Economometrics, Applied Microeconometrics, Urban Economics,Economic Philosophy, China Economic Topics.  
   - Research: Topics include economic decentralization, hidden debt in China, and fiscal policy reform.  
 
 - **The University of Hong Kong**  
@@ -46,8 +66,8 @@ For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
   - Project 2: "Carbon Reduction Pathways Based on Forest Resources"  
     Tasks: Studying heterogeneity in forest coverage and highway construction.
 
-- **Peking University, Undergraduate Research Program**  
-  *Principal Investigator (2023 - Present)*  
+- **Peking University, Undergraduate Research Training Program**  
+  *Group leader (May, 2023 - Nov, 2024)*  
   - Funded by Peking University President Fund.  
   - Research Topic: Effects of financial decentralization on implicit debt accumulation in China.  
 
@@ -57,7 +77,7 @@ For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
 
 ---
 
-## Leadership and Activities
+## Scoial-Experience
 For better assessment to my leadership abilities<br/>
 Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 
@@ -66,8 +86,8 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
   - Assisted the German delegation during opening/closing ceremonies and other key events.  
   - Hosted International Olympic Committee (IOC) President Thomas Bach and other VIPs.
 
-- **Student Association, Peking University, National School of Development**  
-  *Minister of Liaison Department (2022 - Present)*  
+- **JingShuang Student Union, Peking University, National School of Development**  
+  *Director of Liaison Department (2022 - Present)*  
   - Organized multiple enterprise visits, including to Meituan Headquarters and National Bureau of Statistics.  
   - Facilitated internship agreements with Guosen Securities, creating 10+ positions for students.
 
@@ -75,18 +95,34 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
   *Business Assistant for the China International Fair for Trade in Services (2021 - 2023)*  
   - Coordinated with regional leaders, introduced Hong Kong trade policies, and managed on-site exhibitors.
 
+- **Guoxin Securities Co., Ltd. Beijing Branch**
+  *Internship in Sales Department, Jul 2023 - Oct 2023*
+ - Assisting the general manager of the sales department in statistics of sales data, analyzing performance output and other comprehensive operational work.
+ - Completing departmental personnel and administrative affairs, including daily document processing, talent recruitment and other administrative and personnel-related work; and
+ - Participate in campus recruitment and establish contact with university student organizations; complete other matters assigned by the leadership.
+
 ---
 
 ## Publications
 
-1. **"NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation"**  
-   - *6th International Conference on Economic Management and Green Development (2022)*  
+- **On working**  
+  *Three-Dimensional UAV Path Planning in Urban Environments Based on an Improved Parrot Optimization Algorithm*  
+  - This is under revision and excepted to be published as SCI paper in this year.  
+  - After my series studies in data science ,I choose to make a trial in algorithms.
 
-2. **"Is Democracy Equal to the Right to Vote? -- An Analysis of Substantive and Procedural Democracy in the U.S."**  
-   - *PESD 2022 International Academic Conference (2022)*  
+- **Mathematical Model**  
+  *Design of Investment Risk Control Model for Securities Market Based on Market Factors*  
+  - This is one of the works which we completed during the Mathematical Model competitions.  
 
-3. **"The Process of Financialization in the Industrialized Economies: In the Perspective of the Credit-Money System"**  
-   - *2nd International Conference on Economy and Finance, Enterprise Reform, and Marketing Research (2024)*  
+- **Conference Papers**  
+1. *"NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation"**  
+   - 6th International Conference on Economic Management and Green Development (2022)*  
+
+2. *"Is Democracy Equal to the Right to Vote? -- An Analysis of Substantive and Procedural Democracy in the U.S."**  
+   - PESD 2022 International Academic Conference (2022)*  
+
+3. *"The Process of Financialization in the Industrialized Economies: In the Perspective of the Credit-Money System"**  
+   - 2nd International Conference on Economy and Finance, Enterprise Reform, and Marketing Research (2024)*  
 
 ---
 
