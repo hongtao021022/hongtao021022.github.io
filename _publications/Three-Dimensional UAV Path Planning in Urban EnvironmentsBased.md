@@ -4,8 +4,7 @@ collection: On Working
 category: On Working
 permalink: /publication/Three-Dimensional UAV Path Planning in Urban EnvironmentsBased
 excerpt: '  - This is under revision and excepted to be __published as SCI paper in this year__ 
-<br/>
- - After my series studies in __data science__ ,I choose to make a trial in algorithms.So my two classmates and I jointly proposed an Improved Parrot Optimization Algorithm (IPO). By incorporating chaotic mapping, an adaptive switching factor, and hybrid mutation strategies, we significantly enhanced the global search capability and convergence speed of UAV three-dimensional path planning. Additionally, I utilized MATLAB to create a three-dimensional map based on my alma mater, Beijing International Studies University (BISU), and conducted simulation experiments on this platform.'
+- After my series studies in __data science__ ,I choose to make a trial in algorithms.So my two classmates and I jointly proposed an Improved Parrot Optimization Algorithm (IPO). By incorporating chaotic mapping, an adaptive switching factor, and hybrid mutation strategies, we significantly enhanced the global search capability and convergence speed of UAV three-dimensional path planning. Additionally, I utilized MATLAB to create a three-dimensional map based on my alma mater, Beijing International Studies University (BISU), and conducted simulation experiments on this platform.'
 ---
 
 [See this paper here](../files/Three-Dimensional UAV Path Planning in Urban EnvironmentsBased.pdf).
