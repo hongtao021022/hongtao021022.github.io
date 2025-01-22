@@ -16,8 +16,7 @@ collection: portfolio
 **Internship in Sales Department,  Jul 2023 - Oct 2023**
  - Assisting the general manager of the sales department in statistics of sales data, analyzing performance output and other comprehensive operational work.
  - Completing departmental personnel and administrative affairs, including daily document processing, talent recruitment and other administrative and personnel-related work; and
- - Participate in campus recruitment and establish contact with university student organizations
-Complete other matters assigned by the leadership.
+ - Participate in campus recruitment and establish contact with university student organizations; complete other matters assigned by the leadership.
  - [Certificate of Internship](../files/08-Internship Certificate from Guosen Securities.pdf)  here
 
 
