@@ -8,9 +8,6 @@ main:
   - title: "Academic Background"
     url: /markdown/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "RA-Experience"
     url: /talks/    
     
@@ -19,6 +16,9 @@ main:
 
   - title: "Other Statements"
     url: /teaching/    
+
+  - title: "Publications"
+    url: /publications/
 
 
     
