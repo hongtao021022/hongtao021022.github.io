@@ -14,23 +14,29 @@ permalink: /talks/PKU_Undergraduate_Research
   - To grasp the basics of China's fiscal development history
   - Finish a report of this program,  软预算约束下的中国隐性债务扩张：财政风险金融化与化债策略研究
 <br/>
-**Work Details**
+
+<br/>
 ## Research Project Overview
 
 Peking University has always been committed to promoting the growth and development of undergraduate students in the academic field, and therefore launched this program to provide opportunities for undergraduate students to deepen their academics, broaden their horizons, and enhance their research abilities in related fields.
 
-It is very fortunate that my project was guided by Ms. Yao Yang. After exchanging and communicating with the teacher, we divided the whole project into two phases to steadily advance the research work with the mid-term report as the key node.
+It was very fortunate that my project was guided by Dr. Yao Yang and got supports by Peking University - President's Fund
 
-### Stage 1: Pre-Interim
-In this stage, we devoted ourselves to the in-depth exploration of the topic. Through extensive reading of academic papers related to this research topic, we systematically sorted out the development of Chinese fiscal theory and the evolution of debt governance. This process not only helped us accumulate rich theoretical knowledge, but also gave us a comprehensive and profound understanding of the topic, laying a solid foundation for subsequent research.
+To make sure steadily progress during the research work, after communicating with the supervisor, we divided the whole project into two stages by the key time of the mid-term report: 
+
+### Stage 1: Pre-Midterm
+In this stage, I devoted myself to the in-depth exploration of the topics. Through extensive reading of academic papers and reports, we systematically sorted out the development of Chinese fiscal theory and the evolution of debt governance, published it as a conference paper as one of the results of our research. This process not only helped us accumulate theoretical knowledge, but also gave us a comprehensive and profound understanding of the topic, laying a solid foundation for subsequent research.
 
 ### Stage 2: Post-Midterm
-On top of the solid research foundation in the early stage, we based on the two guiding directions proposed by Ms. Yao Yang:
-1. **Financialization of finance**  
-   (The research of this paper may be more specific to: financialization of fiscal risk)
+On top of the solid studies foundation in the early stage, we follow the two guiding directions proposed by Dr. Yao Yang:
+1. **Financialization of fiscal system**  
+   (During the research, we more focus on financialization of fiscal risk)
 2. **Explore why financial institutions can tolerate soft budget constraints from the government during the expansion of hidden debt.**
 
-Therefore, I focused on the key issue of **“China's implicit debt expansion under soft budget constraints”**. Through in-depth analysis of the internal mechanism of financialization of fiscal risks and the effectiveness of debt resolution strategies, I have completed a paper that explores the underlying reasons behind China's hidden debt expansion and explores practical ways to resolve it.
+Therefore, I focused on the key issue of **“China's implicit debt expansion under soft budget constraints”**. Through in-depth analysis of the internal mechanism of financialization of fiscal risks and the effectiveness of debt resolution strategies, I have completed a report that explores the underlying reasons behind China's hidden debt expansion and explores practical ways to resolve it.
 
-  - Published Conference Papers. [A Historical Overview of the Development of China's Fiscal Theory and Debt Governance](../assets/A Historical Overview of the Development of China’s Fiscal Theory and Debt Governance.pdf) & [Acceptance Letter](../assets/Accept_A_Historial.pdf).系统总结了当前学术界在相关领域的前沿研究成果，为后续研究提供了重要的理论参考。
-  - 完成了一份结项报告——《软预算约束下的中国隐性债务扩张：财政风险金融化与化债策略研究》。这份报告不仅详细阐述了我们的研究思路与方法，更深入剖析了中国隐性债务扩张的现状、成因以及潜在风险，并提出了针对性的化债策略，为相关政策制定提供了有益的参考与借鉴。
+So, the result of this program are
+  - Published Conference Papers. [A Historical Overview of the Development of China's Fiscal Theory and Debt Governance](../assets/A Historical Overview of the Development of China’s Fiscal Theory and Debt Governance.pdf) & [Acceptance Letter](../assets/Accept_A_Historial.pdf).
+
+  - Completed a final report on “China's Hidden Debt Expansion under Soft Budget Constraints: A Study on Financialization of Fiscal Risks and Debt Reduction Strategies”. This report not only elaborates our research ideas and methods, but also analyzes the current situation, causes and potential risks of China's hidden debt expansion, and puts forward targeted strategies for debt resolution.
+
