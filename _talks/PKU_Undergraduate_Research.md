@@ -12,7 +12,7 @@ permalink: /talks/PKU_Undergraduate_Research
 - **Works**.
   - Completing a compendium of China's fiscal system (review article)
   - To grasp the basics of China's fiscal development history
-  - Finish a report of this program,  软预算约束下的中国隐性债务扩张：财政风险金融化与化债策略研究
+  - Finish a report of this program: China's Implicit Debt Expansion under Soft Budget Constraints: A Study on Financialization of Fiscal Risks and Debt Reduction Strategies((软预算约束下的中国隐性债务扩张：财政风险金融化与化债策略研究))
 <br/>
 
 <br/>
@@ -38,5 +38,5 @@ Therefore, I focused on the key issue of **“China's implicit debt expansion un
 So, the result of this program are
   - Published Conference Papers. [A Historical Overview of the Development of China's Fiscal Theory and Debt Governance](../assets/A Historical Overview of the Development of China’s Fiscal Theory and Debt Governance.pdf) & [Acceptance Letter](../assets/Accept_A_Historial.pdf).
 
-  - Completed a final report on “China's Hidden Debt Expansion under Soft Budget Constraints: A Study on Financialization of Fiscal Risks and Debt Reduction Strategies”. This report not only elaborates our research ideas and methods, but also analyzes the current situation, causes and potential risks of China's hidden debt expansion, and puts forward targeted strategies for debt resolution.
+  - Completed a final report on “China's Implicit Debt Expansion under Soft Budget Constraints: A Study on Financialization of Fiscal Risks and Debt Reduction Strategies(软预算约束下的中国隐性债务扩张：财政风险金融化与化债策略研究)”. This report not only elaborates our research ideas and methods, but also analyzes the current situation, causes and potential risks of China's hidden debt expansion, and puts forward targeted strategies for debt resolution.
 
