@@ -1,15 +1,15 @@
 ---
-title: "北京大学 国家发展研究院 - 城市经济学研究助理"
+title: "Peking University, National School of Development - Research Assistant in Urban Economics"
 venue: "National School of Development, Peking Univerisity"
 collection: talks
 permalink: /talks/PKU_Urban_Research
 ---
-**2024年06月 - 至今**
+**June 2024 - present**
 
-- **项目导师**: 彭聪 助理教授
-- **项目1**: 《数据稀缺地区的经济替代数据生成与应用，以非洲为应用场景》
-  - 负责数据清洗和数据分析
-- **项目2**: 《基于森林资源的碳减排路径》
-  - 研究高速公路与森林覆盖率的影响
-  - 负责数据清洗
-  - 研究不同林权所属背景下，各省份的异质性
+- **Project Supervisor**: Assistant Professor Cong Peng
+- **Project 1**: Generation and Application of Economic Alternatives in Data-Scarce Regions, Using Africa as an Application Scenario
+  - Responsible for data cleansing and data analysis.
+- **Project 2**: “Carbon Emission Reduction Pathways Based on Forest Resources”.
+  - Study on the impact of highways and forest cover
+  - Responsible for data cleaning
+  - Research on the heterogeneity of provinces under the background of different forest rights.
