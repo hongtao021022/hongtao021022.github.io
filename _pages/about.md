@@ -19,7 +19,7 @@ I'm a full-time study undergraduate studying at [School of Economics in Beijing 
    - 用于您评估我的领导力
  - Other Statements
    - 我在数据科学上的学习经历，对于PhD道路的规划, 以及个人CV
- - Publications
+ - Publications/Papers
 
 点击对应位置的链接可以查看对应的材料，如成绩单，学业排名，相关证明等
 
@@ -121,8 +121,8 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
   *Is Democracy Equal to the Right to Vote? -- An Analysis of Substantive and Procedural Democracy in the U.S.*  
    - PESD 2022 International Academic Conference (2022)*  
 
-  *The Process of Financialization in the Industrialized Economies: In the Perspective of the Credit-Money System*  
-     - 2nd International Conference on Economy and Finance, Enterprise Reform, and Marketing Research (2024)*  
+  *A Historical Overview of the Development of China's Fiscal Theory and Debt Governance*  
+     - 6th International Conference on Economics, Management, and Cultural Industry (ICEMCI 2024)*  
 
 ---
 
