@@ -12,21 +12,21 @@ I'm a full-time study undergraduate studying at [School of Economics in Beijing 
 为了能够让来到这个网页的人对我进行全面准确的评估，我设计了这个网站
 它包括了五个部分，您可以根据详细查看相关内容：
  - Academic Background
-   - 用于您评估我的学术背景
- - RA-Experience
-   - 用于您评估我的相关能力
+   - For your evaluation of my academic background
+ - Research-Experience
+   - For your evaluation of my research skills
  - Social Experience
-   - 用于您评估我的领导力
+   - For you to assess my leadership
  - Other Statements
-   - 我在数据科学上的学习经历，对于PhD道路的规划, 以及个人CV
+   - Eg. My experience in data science, my plans for a PhD, and my CV.
  - Publications/Papers
 
-点击对应位置的链接可以查看对应的材料，如成绩单，学业排名，相关证明等
+Click on the links in the corresponding position to view the corresponding materials, such as transcripts, academic rankings, relevant certificates, etc.
 
 [Email](mailto:2200935143@stu.pku.edu.cn) / [Github](https://github.com/hongtao021022) 
 
-下面是所有部分所涵盖的项目罗列，您可以将其作为目录点击跳转
-（这也是我CV上的内容）
+Here's a listing of the items covered in all the sections, which you can use as a table of contents by clicking on the jump!
+(These are also on my CV)
 ---
 
 ## Academic Background
