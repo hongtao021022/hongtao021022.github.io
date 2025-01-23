@@ -9,8 +9,9 @@ redirect_from:
 
 I'm a full-time study undergraduate studying at [School of Economics in Beijing International Studies University ](https://en.bisu.edu.cn/), and [National School of Development](https://en.nsd.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/). 
 
-为了能够让来到这个网页的人对我进行全面准确的评估，我设计了这个网站
-它包括了五个部分，您可以根据详细查看相关内容：
+I have designed this website in order to enable people who come to this page to make a full and accurate assessment of me
+
+It consists of five sections, you can view the content according to the details:
  - Academic Background
    - For your evaluation of my academic background
  - Research-Experience
