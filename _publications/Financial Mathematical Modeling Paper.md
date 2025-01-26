@@ -1,11 +1,11 @@
 ---
-title: "基于市场因子的证券市场投资风险控制模型设计"
+title: "Design of a Securities Market Investment Risk Control Model Based on Market Factors"
 collection: publications
 category: Math Model
 permalink: /publication/Financial Mathematical Modeling Paper
-excerpt: '这是我参加数模比赛的参赛论文，内容和金融建模有关，请您参考.'
+excerpt: 'This is my paper for the mathematical modeling competition, which is related to financial modeling.'
 ---
 
-[See this paper here](../files/基于市场因子的证券市场投资事前风控体系的构建.pdf).
+[See this paper here](../files/Design of a Securities Market Investment Risk Control Model Based on Market Factors.pdf).
 
-本文基于2014至2024年沪深300指数成分股的历史数据，构建了一个包括事前风险系统性风险控制的收益预测模型。首先，我们选取并计算平均收益率、波动率和贝塔系数等风险计量指标作为市场因子，为模型提供基础数据。接着，选取与系统性风险相关的技术指标，构建了多个优化模型，并通过对比分析最终选用线性回归模型，同时引入神经网络NAR模型提升预测精度。为了有效控制投资组合的最大回撤，我们设计了一个事前风控体系，使用VaR等风险指标并依据波动率动态调整股票配置。回测结果表明，该风控体系能够将最大回撤控制在0.25以内，并实现1.06的累计收益。最后，通过结合国债收益率和沪深300指数年化收益率分析，设定了合理的收益预期为6.32%，包含4%的风险溢价。
+__Abstract:__ Based on the historical data of the CSI 300 index constituents from 2014 to 2024, this paper constructs a systematic risk-return prediction model incorporating ex-ante risk control. The study selects risk measurement indicators such as average return rate, volatility, and beta coefficient as market factors, performs technical operations such as lag characteristics and moving average indicators, and builds a risk prediction model. On this basis, an ex-ante risk control system with dynamic adjustment of stock allocation is designed. Using risk indicators such as VaR, the maximum drawdown of the investment portfolio is controlled within 0.25, achieving a cumulative return of 6%, significantly outperforming international risk control standards. Additionally, the study introduces the neural network NAR model as a comparative analysis tool to further verify the model's advantages in improving prediction accuracy. Overall, this research provides a scientific and effective risk control solution for portfolio management, which has important theoretical significance and practical value. 
