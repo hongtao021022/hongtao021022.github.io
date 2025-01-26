@@ -10,9 +10,9 @@ Welcome to my homepage, thanks for your time.
 
 I'm a full-time study undergraduate studying at [School of Economics in Beijing International Studies University ](https://en.bisu.edu.cn/), and [National School of Development](https://en.nsd.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/). 
 
-I have designed this website in order to enable people who come to this page to make a full and accurate assessment of me
+__I have designed this website in order to be convenient to people who come to this page to make a full and accurate assessment of me__
 
-It consists of five sections, you can view the content according to the details:
+It consists of five sections:
  - __[Academic Background](https://hongtao021022.github.io/markdown/)__
    - For your evaluation of my academic background
  - __[Research Experience](https://hongtao021022.github.io/talks/)__
