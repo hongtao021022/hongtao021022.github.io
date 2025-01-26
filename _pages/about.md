@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my homepage, thanks for your time.
 
 I'm a full-time study undergraduate studying at [School of Economics in Beijing International Studies University ](https://en.bisu.edu.cn/), and [National School of Development](https://en.nsd.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/). 
 
