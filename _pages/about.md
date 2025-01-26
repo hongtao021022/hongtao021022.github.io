@@ -20,7 +20,7 @@ It consists of five sections, you can view the content according to the details:
    - For you to assess my leadership
  - __[Other Statements](https://hongtao021022.github.io/teaching/)__
    - Eg. My experience in data science, my plans for a PhD, and my CV.
- - Publications/Papers
+ - __[Publications/Papers](https://hongtao021022.github.io/publications/)__
 
 Click on the links in the corresponding position to view the corresponding materials, such as transcripts, academic rankings, relevant certificates, etc.
 
@@ -120,6 +120,9 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 - **Mathematical Model**  
   *Design of Investment Risk Control Model for Securities Market Based on Market Factors*  
     - This is one of the works which we completed during the Mathematical Model competitions.  
+
+  *Global Pet Industry Insights: ARIMA-Based Forecasting of Pet Food Demand and Strategic Implications*
+    - This is my paper for the mathematical modeling competition——Asia-Pacific Mathematical Modeling Competition (contest in English)
 
 - **Conference Papers**  
   *NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation*  
