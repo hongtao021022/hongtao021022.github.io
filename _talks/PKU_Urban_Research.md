@@ -1,5 +1,5 @@
 ---
-title: "Peking University, National School of Development - Research Assistant in Urban Economics"
+title: "Peking University - National School of Development - Research Assistant in Urban Economics"
 venue: "National School of Development, Peking Univerisity"
 collection: talks
 permalink: /talks/PKU_Urban_Research
