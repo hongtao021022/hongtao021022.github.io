@@ -3,9 +3,14 @@ title: "Is Democracy Equal to the Right to Vote? --An Analysis of Substantive an
 collection: publications
 category: conferences
 permalink: /publication/Is Democracy Equal to the Right to Vote
-excerpt: '研究内容为美国政治选举制度，在本次会议以第一作者发表'
-date: 2022-11-11
-venue: '2022年公共服务、经济管理与可持续发展国际学术会议（PESD2022）'
+excerpt: 'The research content is the American political election system, I'm the first author of this publication.'
+
+'Pubished at 11-04-2022 <br/> - The 2022 International Conference on Public Service, Economic Management and Sustainable Development (PESD 2022) <br/> - This is my multi-major course paper. Under the guidance of our professor, my two classmates and I revised it into a conference paper, which published as one of my academic materials.'
+
+
+
+date: 2022-11-04
+venue: 'The 2022 International Conference on Public Service, Economic Management and Sustainable Development (PESD 2022)'
 ---
 
 [See this paper here](../files/Is Democracy Equal to the Right to Vote.pdf).
