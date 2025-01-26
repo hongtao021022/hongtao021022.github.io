@@ -38,12 +38,18 @@ Here's a listing of the items covered in all the sections, which you can use as 
      - __Relevant courses（full score 100）__: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
      - __Math course__: Statistics92, Calculus 82, Linear Algebra 81, Probability and Statistics 82 
      - __Scholarships__: Wu Tong Medal & Scholarship, Second Class Academic Excellence Scholarship, "Three Good Student" Award.
+     - __Mathematical Modeling honors__ -
+        - [Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition (Chinese Division), International Second Prize.pdf)
+        - [Asia-Pacific Mathematical Modeling Competition (contest in English), International Third Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition, International Third Prize.pdf)
+        - [China Undergraduate Mathematical Contest in Modelling（CUMCM）, Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
 
   - __Multi-major in International Affairs and Relations__ -
   [Transcript click here](../files/04-BISU-Multi-major-transcript.pdf)
   <br/>GPA: 85.2/100 
       - __Relevant courses（full score 100）__: Introductionto International Affairs 85, Contemporary International Relations 89, American Politics,Economics and Foreign Relations 90.etc
       - __Course work paper__: Is Democracy Equal to the Right to Vote? –An Analysis of Substantive and Procedural Democracy in the United States
+
+
 
 **Peking University**  
   - __Minor in Economics (2022 - 2025)__ -   
