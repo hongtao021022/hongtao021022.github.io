@@ -14,7 +14,7 @@ In my first year as a member, I familiarized myself with and took charge of the 
 **September 2022 – July 2023**
 <br/>During this academic year, as a member of the Liaison Department, I was responsible for the following project.
 - Organized a visit program with over 40 students from Peking University to the headquarters of [Meituan](A Tech-driven Retail Company) for a visit, which is A leading Tech-driven Retail Company in China
-- Planned and executed a visit program for the [National Bureau of Statistics, P.R.China](https://www.stats.gov.cn/english/) with over 30 participants.
+- Planned and executed a visit program to the [National Bureau of Statistics, P.R.China](https://www.stats.gov.cn/english/) with over 30 participants.
 
 
 Thus, as you can see that, the main activities' form of my department in this year was visiting program. So I think here we can make a progress to innovate the form of projects and enrich our activities.
