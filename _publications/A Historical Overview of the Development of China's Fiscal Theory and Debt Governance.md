@@ -3,9 +3,9 @@ title: "A Historical Overview of the Development of China's Fiscal Theory and De
 collection: publications
 category: conferences
 permalink: /publication/A Historical Overview of the Development of China's Fiscal Theory and Debt Governance
-excerpt: 'Pubished at 10-25-2024<br/> 第六届经济管理与文化产业国际学术会议（ICEMCI 2024）<br/>该文为本人北京大学本科生科研项目的中期项目成果'
+excerpt: 'Pubished at 10-25-2024<br/> - 2024 6th International Conference on Economic Management and Cultural Industry (ICEMCI 2024)<br/> - This paper is an interim outcome of my [Undergraduate Research Training Program at Peking University](https://hongtao021022.github.io/talks/PKU_Undergraduate_Research).'
 date: 2024-10-25
-venue: '第六届经济管理与文化产业国际学术会议（ICEMCI 2024）'
+venue: '2024 6th International Conference on Economic Management and Cultural Industry (ICEMCI 2024)'
 ---
 
 [See the paper here](../files/A Historical Overview of the Development of China’s Fiscal Theory and Debt Governance.pdf).
