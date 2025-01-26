@@ -24,8 +24,6 @@ It consists of five sections, you can view the content according to the details:
 
 __Click on the links in the corresponding position to view the corresponding materials, such as transcripts, academic rankings, relevant certificates, etc.__
 
-[Email](mailto:2200935143@stu.pku.edu.cn) / [Github](https://github.com/hongtao021022) 
-
 Here's a listing of the items covered in all the sections, which you can use as a table of contents by clicking on the jump!
 (These are also on my CV)
 ---
