@@ -16,9 +16,9 @@ It consists of five sections, you can view the content according to the details:
    - For your evaluation of my academic background
  - __[Research Experience](https://hongtao021022.github.io/talks/)__
    - For your evaluation of my research skills
- - __Social Experience](https://hongtao021022.github.io/portfolio/)__
+ - __[Social Experience](https://hongtao021022.github.io/portfolio/)__
    - For you to assess my leadership
- - [Other Statements](https://hongtao021022.github.io/teaching/)
+ - [Other Statements](https://hongtao021022.github.io/teaching/)__
    - Eg. My experience in data science, my plans for a PhD, and my CV.
  - Publications/Papers
 
