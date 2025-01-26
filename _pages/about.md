@@ -31,6 +31,7 @@ Here's a listing of the items covered in all the sections, which you can use as 
 ---
 
 ## Academic Background
+For details, click [Academic Background](https://hongtao021022.github.io/markdown/)
 
 **Beijing International Studies University**  
   - __Bachelor of economics, major in International Economics and Trade (2020 - 2025)__ -   
