@@ -3,9 +3,10 @@ title: "NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumptio
 collection: publications
 category: conferences
 permalink: /publication/NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation
-excerpt: '研究内容为NFT与消费异化现象，并在本次会议以独立一作身份发表论文'
+excerpt: 'Pubished at 11-03-2022 <br/> - The 6th International Conference on Economic Management and Green Development (ICEMGD 2022) - <br/> - The research content is about NFTs and the phenomenon of consumption alienation, which is my contemplation on political philosophy concepts such as consumption alienation. The paper was published with me as the sole author.'
+
 date: 2022-03-11
-venue: 'The 6th International Conference on Economic Management and Green Development'
+venue: 'The 6th International Conference on Economic Management and Green Development (ICEMGD 2022)'
 ---
 
 [See the paper here](../files/NFT Popularity -- Digital Artwork and Baudrillard's Theory.pdf).
