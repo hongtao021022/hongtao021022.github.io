@@ -18,7 +18,7 @@ It consists of five sections, you can view the content according to the details:
    - For your evaluation of my research skills
  - __[Social Experience](https://hongtao021022.github.io/portfolio/)__
    - For you to assess my leadership
- - [Other Statements](https://hongtao021022.github.io/teaching/)__
+ - __[Other Statements](https://hongtao021022.github.io/teaching/)__
    - Eg. My experience in data science, my plans for a PhD, and my CV.
  - Publications/Papers
 
@@ -41,7 +41,7 @@ Here's a listing of the items covered in all the sections, which you can use as 
      - __Mathematical Modeling honors__ 
         - [Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition (Chinese Division), International Second Prize.pdf)
         - [Asia-Pacific Mathematical Modeling Competition (contest in English), International Third Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition, International Third Prize.pdf)
-        - [China Undergraduate Mathematical Contest in Modelling（CUMCM）, Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
+        - [China Undergraduate Mathematical Contest in Modelling (CUMCM),<br/> Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
 
   - __Multi-major in International Affairs and Relations__ -
   [Transcript click here](../files/04-BISU-Multi-major-transcript.pdf)
