@@ -22,7 +22,7 @@ It consists of five sections, you can view the content according to the details:
    - Eg. My experience in data science, my plans for a PhD, and my CV.
  - __[Publications/Papers](https://hongtao021022.github.io/publications/)__
 
-Click on the links in the corresponding position to view the corresponding materials, such as transcripts, academic rankings, relevant certificates, etc.
+__Click on the links in the corresponding position to view the corresponding materials, such as transcripts, academic rankings, relevant certificates, etc.__
 
 [Email](mailto:2200935143@stu.pku.edu.cn) / [Github](https://github.com/hongtao021022) 
 
