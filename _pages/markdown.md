@@ -10,11 +10,13 @@ redirect_from:
 <br/>
 __Click the <font color=lightblue>links</font> to view the corresponding supporting documents.__
 
-My educational background mainly consists of two institutions: Beijing International Studies University (BISU), where I pursued a [Bachelor's degree in International Economics and Trade from 2020 to 2025](../files/03-BISU Certificate of Attending.pdf), and Peking University (PKU), where I participated in the [Minor Program of Economics from 2022 to 2025](../files/02-PKU Certificate of Attending.pdf). 
+My educational background mainly consists of two institutions: 
+ - Beijing International Studies University (BISU), where I pursued a [Bachelor's degree in International Economics and Trade from 2020 to 2025](../files/03-BISU Certificate of Attending.pdf),
+ - Peking University (PKU), where I participated in the [Minor Program of Economics from 2022 to 2025](../files/02-PKU Certificate of Attending.pdf). 
 
 __Expected graduation time: July, 2025__
 
-In 2020, I began my full-time study in the Bachelor's program of International Economics and Trade at the School of Economics, BISU. Concurrently, in 2022, I enrolled in the Economics Minor Program at PKU. At BISU, I focused on fundamental economics courses, while at PKU, I deived into advanced economics courses such as Applied Microeconometrics and Special Topics on Chinese Economy. I also engaged in undergraduate research training and worked as a research assistant at PKU. Thus, these two programs together form the core of my economics education.
+In 2020, I began my full-time study in the Bachelor's program of International Economics and Trade at the School of Economics, BISU. Concurrently, in 2022, I enrolled in the Economics Minor Program at PKU as full time student. At BISU, I focused on fundamental economics courses, while at PKU, I deived into further economics courses such as Applied Microeconometrics and Special Topics on Chinese Economy. I also engaged in [Undergraduate Research Training](https://hongtao021022.github.io/talks/PKU_Undergraduate_Research) and worked as a research assistant at PKU. Thus, the core of my economics education was jointly provided by BISU and PKU.
 
 Besides my studies in economics, I also take a __Multi-Major studies in International Affairs and International Relations__ at BISU, which was driven by my passion for International Politics. 
 
