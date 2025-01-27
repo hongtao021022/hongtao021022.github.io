@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<font size=5>Welcome! Thanks for your time here.</font>
-
+<font size=5>__Welcome! Thanks for your time here.__</font>
+<br/>
 I'm a full-time study undergraduate studying at [School of Economics in Beijing International Studies University ](https://en.bisu.edu.cn/), and [National School of Development](https://en.nsd.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/). 
 
 __I have designed this website in order to be convenient to people who come to this page to make a full and accurate assessment of me__
