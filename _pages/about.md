@@ -111,7 +111,7 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 ---
 
 ## Publications
-For details, click [RA-Experience](https://hongtao021022.github.io/publications/)
+For details, click [Publications](https://hongtao021022.github.io/publications/)
 - **On working**  
   *Three-Dimensional UAV Path Planning in Urban Environments Based on an Improved Parrot Optimization Algorithm*  
     - This is under revision and excepted to be published as SCI paper in this year.  
