@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 __<font size=5>Welcome! Thanks for your time here.</font>__
-
 <br/>
 I'm a full-time study undergraduate studying at [School of Economics in Beijing International Studies University ](https://en.bisu.edu.cn/), and [National School of Development](https://en.nsd.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/). 
 
