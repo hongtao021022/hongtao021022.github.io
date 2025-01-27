@@ -65,5 +65,11 @@ I firmly believe that the study of data science will help me to solve complex pr
   - [Click here to see the details](https://hongtao021022.github.io/publication/Three-Dimensional%20UAV%20Path%20Planning%20in%20Urban%20EnvironmentsBased).
 
 
-  **基于市场因子的证券市场投资风险控制模型设计**  
-  - This is a paper under revising, which we excepted to public as a SCI paper in this year.
+  **Design of a Securities Market Investment Risk Control Model Based on Market Factors**  
+  - This is my paper for the mathematical modeling competition, which is related to financial modeling.
+  - [Click here to see the details](https://hongtao021022.github.io/publication/Financial%20Mathematical%20Modeling%20Paper).
+
+
+  **Global Pet Industry Insights: ARIMA-Based Forecasting of Pet Food Demand and Strategic Implications**  
+  - This is my paper for the mathematical modeling competition——Asia-Pacific Mathematical Modeling Competition (contest in English).
+  - [Click here to see the details](https://hongtao021022.github.io/publication/Global%20Pet%20Industry%20Insights%20ARIMA-Based%20Forecasting%20of%20Pet%20Food%20Demand).
