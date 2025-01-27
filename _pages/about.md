@@ -24,7 +24,7 @@ It consists of five sections:
    - Eg. My experience in data science, my plans for a PhD, and my CV.
  - __[Publications/Papers](https://hongtao021022.github.io/publications/)__
 
-__Click on the links in the corresponding position to view the corresponding materials, such as transcripts, academic rankings, relevant certificates, etc.__
+__Click on the links to __see the details__ or __view the corresponding materials__, such as transcripts, academic rankings, relevant certificates, etc.__
 
 Here's a listing of the items covered in all the sections, which you can use as a table of contents by clicking on the jump!
 (These are also on my CV)
