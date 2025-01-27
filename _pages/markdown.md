@@ -22,7 +22,7 @@ Besides my studies in economics, I also take a __Multi-Major studies in Internat
 
 And to further enhance my skills in quantitative research, I started __a path of studies in data science__ by many ways, such as the data science summer course in the University of Hong Kong, participating mathematical modeling competitions, and edx courses, which significantly enriched my knowledge in data science/quantitative studies.
 
-__The description of my studies in data science is in __Other Statement,__ [click here to see this](https://hongtao021022.github.io/teaching/Personal%20statement%20in%20data%20science%20studies)
+__The description of my studies in data science is in Other Statement,__[click here to see this](https://hongtao021022.github.io/teaching/Personal%20statement%20in%20data%20science%20studies)
 
 In summary, I have acquired a solid foundation in both politics and economics economics. I plan to apply for master's programs related to politics and economics to further integrate these two fields of study, or for programs in statistics to lay a quantitative foundation for future PhD studies.
 
