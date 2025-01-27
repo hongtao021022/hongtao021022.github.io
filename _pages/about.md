@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=1>(notes: The website keep updating)</font>
+<font size=2>(notes: The website keep updating)</font>
 __<font size=5>Welcome! Thanks for your time here.</font>__
 
 I'm a full-time study undergraduate studying at [School of Economics in Beijing International Studies University ](https://en.bisu.edu.cn/), and [National School of Development](https://en.nsd.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/). 
