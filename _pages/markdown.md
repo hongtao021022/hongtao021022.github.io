@@ -35,6 +35,10 @@ Below is a detailed presentation of my academic background.
   - __Relevant courses（full score 100）__: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
   - __Math course__: Statistics92, Calculus 82, Linear Algebra 81, Probability and Statistics 82 
   - __Scholarships__: [Wu Tong Medal & Scholarship](../files/05-BISU-Wutong Scholarship.pdf), [Second Class Academic Excellence Scholarship, "Three Good Student" Award](../files/05-List of Awards earned by Hongtao.pdf).
+  - __Mathematical Modeling honors__ 
+    - [Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition (Chinese Division), International Second Prize.pdf)
+    - [Asia-Pacific Mathematical Modeling Competition (contest in English), International Third Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition, International Third Prize.pdf)
+    - [China Undergraduate Mathematical Contest in Modelling (CUMCM),<br/> Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
 
 **Multi-major in International Affairs and Relations**  
   [Transcript click here](../files/04-BISU-Multi-major-transcript.pdf)
