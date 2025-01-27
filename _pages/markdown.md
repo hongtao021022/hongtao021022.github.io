@@ -11,8 +11,8 @@ redirect_from:
 __Click the <font color=lightblue>links</font> to view the corresponding supporting documents.__
 
 My educational background mainly consists of two institutions: 
- - Beijing International Studies University (BISU), where I pursued a [Bachelor's degree in International Economics and Trade from 2020 to 2025](../files/03-BISU Certificate of Attending.pdf),
- - Peking University (PKU), where I participated in the [Minor Program of Economics from 2022 to 2025](../files/02-PKU Certificate of Attending.pdf). 
+ - __Beijing International Studies University (BISU)__, where I pursued a [Bachelor's degree in International Economics and Trade from 2020 to 2025](../files/03-BISU Certificate of Attending.pdf),
+ - __Peking University (PKU)__, where I participated in the [Minor Program of Economics from 2022 to 2025](../files/02-PKU Certificate of Attending.pdf). 
 
 __Expected graduation time: July, 2025__
 
