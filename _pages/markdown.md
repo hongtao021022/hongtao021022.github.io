@@ -16,7 +16,7 @@ My educational background mainly consists of two institutions:
 
 __Expected graduation time: July, 2025__
 
-In 2020, I began my full-time study in the Bachelor's program of International Economics and Trade at the School of Economics, BISU. Concurrently, in 2022, I enrolled in the Economics Minor Program at PKU as full time student. At BISU, I focused on fundamental economics courses, while at PKU, I deived into further economics courses such as Applied Microeconometrics and Special Topics on Chinese Economy. I also engaged in [Undergraduate Research Training](https://hongtao021022.github.io/talks/PKU_Undergraduate_Research) and worked as a research assistant at PKU. Thus, the core of my economics education was jointly provided by BISU and PKU.
+In 2020, I began my full-time study in the Bachelor's program of International Economics and Trade at the School of Economics, BISU. Concurrently, in 2022, I enrolled in the Economics Minor Program at PKU as full time student. At BISU, I focused on fundamental economics courses, while at PKU, I deived into further economics courses such as Applied Microeconometrics and Special Topics on Chinese Economy. I also engaged in [Undergraduate Research Training](https://hongtao021022.github.io/talks/PKU_Undergraduate_Research) and worked as a [research assistant at PKU](https://hongtao021022.github.io/talks/PKU_Urban_Research). Thus, the core of my economics education was jointly provided by BISU and PKU.
 
 Besides my studies in economics, I also take a __Multi-Major studies in International Affairs and International Relations__ at BISU, which was driven by my passion for International Politics. 
 
@@ -53,13 +53,20 @@ Below is a detailed presentation of my academic background.
 <br/>For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
 
 - __Peking University, National School of Development ——Research Assistant (2024 - Present)__  
-  - Project 1: "Alternative Data Generation in Data-Scarce Regions: Applications in Africa"  
-    Tasks: Data cleaning and analysis.  
-  - Project 2: "Carbon Reduction Pathways Based on Forest Resources"  
-    Tasks: Studying heterogeneity in forest coverage and highway construction.
+  - Project Supervisor: Assistant Professor Cong Peng
+  - Project 1: Generation and Application of Economic Alternatives in Data-Scarce Regions
+     - Using Africa as an Application Scenario,
+     - Responsible for data cleansing and data analysis.
+  - Project 2: “Carbon Emission Reduction Pathways Based on Forest Resources”.
+     - Study on the impact of highways and forest cover,
+     - Responsible for data cleaning,
+     - Research on the heterogeneity of provinces under the background of different forest rights.
 
 - __Peking University, Undergraduate Research Program__  
-  Principal Investigator (2023 - Present)*  
-  - Funded by Peking University President Fund.  
-  - Research Topic: Effects of financial decentralization on implicit debt accumulation in China.  
+  - Research Topic: China’s local government implicit debt, Fiscal Decentralization and Development of China fiscal theory
+  - Supervisor: Dr. Yang Yao, Director of China Center for Economic Research
+  - Funding: Peking University - President’s Fund
+  - Works:
+     - Completed and published a compendium of China's fiscal system (review article) for understanding and introducting the researches of China’s fiscal development history in China.
+     - Finish a report of this program: China’s Implicit Debt Expansion under Soft Budget Constraints: A Study on Financialization of Fiscal Risks and Debt Reduction Strategies.
 
