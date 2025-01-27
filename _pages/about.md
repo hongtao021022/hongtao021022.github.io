@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<font size=1>(notes: The website keep updating)</font>
 __<font size=5>Welcome! Thanks for your time here.</font>__
 
 I'm a full-time study undergraduate studying at [School of Economics in Beijing International Studies University ](https://en.bisu.edu.cn/), and [National School of Development](https://en.nsd.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/). 
@@ -26,8 +26,7 @@ It consists of five sections:
 
 __Click on the links to see the details or view the corresponding materials, such as transcripts, academic rankings, relevant certificates, etc.__
 
-Here's a listing of the items covered in all the sections, which you can use as a table of contents by clicking on the jump!
-(These are also on my CV)
+Here's a glance of my website, showcasing all its sections. ( also is my CV)
 ---
 
 ## Academic Background
