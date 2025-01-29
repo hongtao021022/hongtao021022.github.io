@@ -1,5 +1,5 @@
 ---
-title: "Description of my data science studies"
+title: "Description of my Data Science Studies"
 collection: teaching
 type: "Written by Hongtao Ma"
 permalink: /teaching/Personal statement in data science studies
@@ -16,13 +16,13 @@ In the section on my [academic background](https://hongtao021022.github.io/markd
 
 Based on this understanding, I enrolled in a summer course at [the University of Hong Kong](https://datascience.hku.hk/study/summer-programmes-for-ug/) in the summer of 2023, marking the beginning of my journey into data science. During the course, I learned some bastic theories of data sciences, such as neural networks, nonlinear programming, and genetic algorithms, which opened the door to the field of data science and gave me an initial understanding of it.
 
-After gaining an initial foothold, I chose to further my studies through an online course offered by [Harvard University on the edX](https://www.edx.org/certificates/professional-certificate/harvardx-data-science). At the same time, to help me be more  proficient  in practical usage, I participated in several mathematical modeling competitions and completed a paper on financial mathematical modeling.
+After that, I chose to further my studies through an online course offered by [Harvard University on the edX](https://www.edx.org/certificates/professional-certificate/harvardx-data-science). At the same time, to help me be more  proficient  in practical usage, I participated in several mathematical modeling competitions and completed a paper on financial mathematical modeling.
 
 So, the studies and practical using in mathematical competitions help me have a good command of analysis tools such as __Python, MATLAB, and R__, and use these tools for data analysis, machine learning, and other tasks. This not only supports my academic research but also lays a solid foundation for my career development.
 
 I firmly believe that the study of data science will help me to solve complex problems, open up broader career paths for my future, and enable me to achieve higher goals in both academic and professional realms.
 
-## The fellow is the details and materials
+## The following are the details and materials
 
   **It contains three parts:**
 - Summer program in the University of Hong Kong
