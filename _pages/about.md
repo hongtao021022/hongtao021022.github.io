@@ -36,7 +36,7 @@ For details, click [Academic Background](https://hongtao021022.github.io/markdow
   - __Bachelor of economics, major in International Economics and Trade (2020 - 2025)__ -   
   GPA: 87.5/100 | Top 10% in Class  
      - __Relevant courses（full score 100）__: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
-     - __Math course__: Statistics92, Calculus 82, Linear Algebra 81, Probability and Statistics 82 
+     - __Math course__: Statistics92, Calculus 82, Linear Algebra 81, Probability Theory 82 
      - __Scholarships__: Wu Tong Medal & Scholarship, Second Class Academic Excellence Scholarship, "Three Good Student" Award.
      - __Mathematical Modeling honors__ 
         - [Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition (Chinese Division), International Second Prize.pdf)
