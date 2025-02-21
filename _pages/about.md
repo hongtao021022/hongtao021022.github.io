@@ -84,7 +84,7 @@ For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
 
 ---
 
-## Scoial-Experience
+## Social-Experience
 For better assessment to my leadership abilities<br/>
 Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 
