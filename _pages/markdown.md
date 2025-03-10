@@ -34,6 +34,7 @@ Below is a detailed presentation of my academic background.
   <br/>GPA: 88.29/100 | [Top 10% in Class](../files/04-BISU-Academic Ranking.pdf)
   - __Relevant courses（full score 100）__: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
   - __Math course__: Statistics92, Calculus 82, Linear Algebra 81, Probability Theory 82 
+  - __Programming language__: Python 96, Matlab 97
   - __Scholarships__: [Wu Tong Medal & Scholarship](../files/05-BISU-Wutong Scholarship.pdf), [Second Class Academic Excellence Scholarship, "Three Good Student" Award](../files/05-List of Awards earned by Hongtao.pdf).
   - __Mathematical Modeling honors__ 
     - [Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition (Chinese Division), International Second Prize.pdf)
