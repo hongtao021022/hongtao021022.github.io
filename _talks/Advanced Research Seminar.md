@@ -4,7 +4,7 @@ collection: talks
 permalink: /talks/Advanced Research Seminar
 venue: "A Graduated level Research Course, Peking University"
 ---
-**March 2024 - July 2024**
+**March 2025 - July 2025**
 
 ## Honor Course, National School of Development, Peking University
 *Research student*
@@ -17,4 +17,4 @@ Research title: Multi-Model Predictive Analysis of Realized Volatility Using the
 During this course I completed an academic poster presenting the work.
 
 - [The Poster ](../assets/10Poster___Advanced_Research_Seminar.pdf).
-- [The code]
+- [The code](../assets/code.html).
