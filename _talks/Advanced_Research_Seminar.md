@@ -1,7 +1,7 @@
 ---
 title: "Advanced Research Seminar"
 collection: talks
-permalink: /talks/Advanced Research Seminar
+permalink: /talks/Advanced_Research_Seminar
 venue: "A Graduated level Research Course, Peking University"
 ---
 **March 2025 - July 2025**
