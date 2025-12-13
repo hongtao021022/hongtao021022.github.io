@@ -37,10 +37,10 @@ Below is a detailed presentation of my academic background.
   - __Programming language__: Python 96, Matlab 97
   - __Scholarships__:
     - [Headmaster Scholarship](../assets/headmaster_scholarship.pdf) Top 10 student selected every year.  Value 10,000RMB
-    - Others: [Wu_Tong_Medal&Scholarship](../files/05-BISU-Wutong-Scholarship.pdf), [Second Class Academic Excellence Scholarship.etc](../files/05-List_of_Awards_earned_by_Hongtao.pdf).
+    - Others: [Wu Tong Medal&Scholarship](../files/05-BISU-Wutong-Scholarship.pdf), [Second Class Academic Excellence Scholarship.etc](../files/05-List_of_Awards_earned_by_Hongtao.pdf).
   - __Mathematical Modeling honors__ 
-    - [Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition (Chinese Division), International Second Prize.pdf)
-    - [Asia-Pacific Mathematical Modeling Competition (contest in English), International Third Prize](../assets/05-Asia-Pacific Mathematical Modeling Competition, International Third Prize.pdf)
+    - [Asia-Pacific Mathematical Modeling Competition (contest in Chinese), International Second Prize](../assets/05-Asia-Pacific-Mathematical-Modeling-Competition-(Chinese-Division),International-Second-Prize.pdf)
+    - [Asia-Pacific Mathematical Modeling Competition (contest in English), International Third Prize](../assets/05-Asia-Pacific-Mathematical-Modeling-Competition,International-Third-Prize.pdf)
     - [China Undergraduate Mathematical Contest in Modelling (CUMCM),<br/> Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
 
 **Multi-major in International Affairs and Relations**  
