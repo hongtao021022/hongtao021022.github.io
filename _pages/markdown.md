@@ -30,7 +30,6 @@ Below is a detailed presentation of my academic background.
 
 ## Beijing International Studies University
   **Bachelor of Economics,major in International Economics and Trade (2020 - 2025),  School of Economics**  
-
   <br/>GPA: 88.29/100 | [Top 10% in Class]
   - __Relevant courses（full score 100）__: Microeconomics 91/100 ; Macroeconomics93/100, Monetary Economics 87/100, International Finance 89/100,   
   - [__Math course__](../files/certificate of math and programming.pdf): Statistics92, Calculus 82, Linear Algebra 81, Probability Theory 82 
@@ -44,7 +43,7 @@ Below is a detailed presentation of my academic background.
     - [China Undergraduate Mathematical Contest in Modelling (CUMCM),<br/> Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
 
 **Multi-major in International Affairs and Relations**  
-  <br/>GPA: 85.2/100 
+<br/>GPA: 85.2/100
   - __Relevant courses（full score 100）__: Introductionto International Affairs 85, Contemporary International Relations 89, American Politics,Economics and Foreign Relations 90.etc
   - __Course work paper__: 
 [Is Democracy Equal to the Right to Vote? –An Analysis of Substantive and Procedural Democracy in the United States](https://hongtao021022.github.io/publication/Is%20Democracy%20Equal%20to%20the%20Right%20to%20Vote) 
@@ -52,7 +51,7 @@ Below is a detailed presentation of my academic background.
 
 
 ## Peking University
-  **Minor in Economics (2022 - 2025), National School of Development**<br/>[Transcript Click here]
+  **Minor in Economics (2022 - 2025), National School of Development**
   - __Relevant courses__: Economometrics, Applied Microeconometrics, Urban Economics,Economic Philosophy, China Economic Topics.  
 
   **Peking University Research Experience**
