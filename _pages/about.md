@@ -45,7 +45,6 @@ For details, click [Academic Background](https://hongtao021022.github.io/markdow
         - [China Undergraduate Mathematical Contest in Modelling (CUMCM),<br/> Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
 
   - __Multi-major in International Affairs and Relations__ -
-  [Transcript click here](../files/04-BISU-Multi-major-transcript.pdf)
   <br/>GPA: 85.2/100 
       - __Relevant courses（full score 100）__: Introductionto International Affairs 85, Contemporary International Relations 89, American Politics,Economics and Foreign Relations 90.etc
       - __Course work paper__: Is Democracy Equal to the Right to Vote? –An Analysis of Substantive and Procedural Democracy in the United States
