@@ -57,6 +57,16 @@ __[Social Experience](https://hongtao021022.github.io/portfolio/)__
 ## Research Experience
 For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
 
+- **Advanced Research Seminar (Honor course in PKU)**  
+  *Project A · April 2024*  
+  Tools: Python, R, MATLAB  
+  - **Research Topic:** Multi-Model Predictive Analysis of Realized Volatility Using the Garman–Klass Estimator  
+  - **Coursework Outcomes:**  
+    [Academic Poster](https://hongtao021022.github.io/assets/10Poster___Advanced_Research_Seminar.pdf) &  
+    [Code](https://hongtao021022.github.io/assets/code.html)  
+  - **Project Repository:**  
+    [GitHub / Project Page](https://hongtao021022.github.io/talks/Advanced_Research_Seminar)
+
 - **Peking University, National School of Development**  
   *Research Assistant (2024 - Present)*  
   - Project 1: "Alternative Data Generation in Data-Scarce Regions: Applications in Africa"  
@@ -73,9 +83,20 @@ For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
   *Research Assistant (2022 - 2023)*  
   - Published a research paper titled: *"The Monetary Credit System and RMB Internationalization."*  
 
+
 ---
 
-## Publications (Journal Articles)
+## Skills and Certifications
+
+- Programming: **Stata**, **Python**, **MATLAB** , **R**  
+- Languages: English (proficiency), Chinese(Native)
+- Others: QGIS
+
+
+---
+
+## Publications 
+- **Journal Papers**  
 
 1. **[J.1]** Yi, W., Cai, X., **Ma, H.**, Fu, Z., & Zhan, Y. (2025).  
    **A Library-Oriented Large Language Model Approach to Cross-Lingual and Cross-Modal Document Retrieval**.  
@@ -113,13 +134,7 @@ For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
    *6th International Conference on Economic Management and Cultural Industry (ICEMCI 2024)*.  
    DOI: [https://doi.org/10.2991/978-94-6463-642-0_64](https://doi.org/10.2991/978-94-6463-642-0_64) :contentReference[oaicite:2]{index=2}
 
----
 
-## Skills and Certifications
-
-- Programming: **Stata**, **Python**, **MATLAB**  
-- Languages: English (CET-6), CATTI International Certification  
-- Others: Tennis, Painting  
 
 ---
 
