@@ -138,7 +138,7 @@ For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
 ---
 
 ## Social-Experience
-For better assessment to my leadership abilities<br/>
+
 Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 
 - **Beijing Winter Olympics and Paralympics 2022**  
