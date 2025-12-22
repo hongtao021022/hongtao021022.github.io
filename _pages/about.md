@@ -98,7 +98,9 @@ For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
    DOI: [https://doi.org/10.5755/j01.itc.54.3.41351](https://doi.org/10.5755/j01.itc.54.3.41351)
 
 
-- **Conference Papers** -
+- **Conference Papers**  
+
+
 1. **[C.1]** **NFT Popularity – Digital Artwork and Baudrillard’s Theory of Consumption Alienation**.  
    *6th International Conference on Economic Management and Green Development (ICEMGD 2022)*.  
    DOI: [https://doi.org/10.54254/2754-1169/3/2022764](https://doi.org/10.54254/2754-1169/3/2022764) :contentReference[oaicite:0]{index=0}
