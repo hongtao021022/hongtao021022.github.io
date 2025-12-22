@@ -62,8 +62,7 @@ For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
   Tools: Python, R, MATLAB  
   - **Research Topic:** Multi-Model Predictive Analysis of Realized Volatility Using the Garman–Klass Estimator  
   - **Coursework Outcomes:**  
-    [Academic Poster](https://hongtao021022.github.io/assets/10Poster___Advanced_Research_Seminar.pdf) &  
-    [Code](https://hongtao021022.github.io/assets/code.html)  
+    [Academic Poster](https://hongtao021022.github.io/assets/10Poster___Advanced_Research_Seminar.pdf) &[Code](https://hongtao021022.github.io/assets/code.html)  
   - **Project Repository:**  
     [GitHub / Project Page](https://hongtao021022.github.io/talks/Advanced_Research_Seminar)
 
