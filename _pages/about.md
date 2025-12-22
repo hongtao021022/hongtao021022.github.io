@@ -9,24 +9,18 @@ redirect_from:
 <font size=2>(notes: The website keep updating)</font>
 __<font size=5>Welcome! Thanks for your time here.</font>__
 
-I'm a full-time study undergraduate studying at [School of Economics in Beijing International Studies University ](https://en.bisu.edu.cn/), and [National School of Development](https://en.nsd.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/). 
+I obtained my **Bachelor of Economics** degree in **July 2025** from the 
+[School of Economics, Beijing International Studies University](https://en.bisu.edu.cn/), 
+with a **Dual major in International Economics and International Politics**.
 
-__I have designed this website in order to be convenient to people who come to this page to make a full and accurate assessment of me__
+At the same time, **Peking University** served as my **joint study institution**, where, after **three years of full-time study**, I was awarded a **Minor in Economics** in **July 2025**. 
+([National School of Development](https://en.nsd.pku.edu.cn/), 
+[Peking University](https://www.pku.edu.cn/))
 
-It consists of five sections:
- - __[Academic Background](https://hongtao021022.github.io/markdown/)__
-   - For your evaluation of my academic background
- - __[Research Experience](https://hongtao021022.github.io/talks/)__
-   - For your evaluation of my research skills
+
+Here's a glance of my academics experience, other details like Research experience, please click  - __[Research Experience](https://hongtao021022.github.io/talks/)__
  - __[Social Experience](https://hongtao021022.github.io/portfolio/)__
-   - For you to assess my leadership
- - __[Other Statements](https://hongtao021022.github.io/teaching/)__
-   - Eg. My experience in data science, my plans for a PhD, and my CV.
- - __[Publications/Papers](https://hongtao021022.github.io/publications/)__
 
-__Click on the links to see the details or view the corresponding materials, such as transcripts, academic rankings, relevant certificates, etc.__
-
-Here's a glance of my website, showcasing all its sections. ( also is my CV)
 ---
 
 ## Academic Background
