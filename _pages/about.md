@@ -75,32 +75,6 @@ For details, click [RA-Experience](https://hongtao021022.github.io/talks/)
 
 ---
 
-## Social-Experience
-For better assessment to my leadership abilities<br/>
-Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
-
-- **Beijing Winter Olympics and Paralympics 2022**  
-  *NOC/NPC Assistant (Jan 2022 - Mar 2022)*  
-  - Assisted the German delegation during opening/closing ceremonies and other key events.  
-  - Hosted International Olympic Committee (IOC) President Thomas Bach and other VIPs.
-
-- **JingShuang Student Union, Peking University, National School of Development**  
-  *Director of Liaison Department (2022 - Present)*  
-  - Organized multiple enterprise visits, including to Meituan Headquarters and National Bureau of Statistics.  
-  - Facilitated internship agreements with Guosen Securities, creating 10+ positions for students.
-
-- **Hong Kong Trade Development Council**  
-  *Business Assistant for the China International Fair for Trade in Services (2021 - 2023)*  
-  - Coordinated with regional leaders, introduced Hong Kong trade policies, and managed on-site exhibitors.
-
-- **Guoxin Securities Co., Ltd. Beijing Branch**<br/>
-  *Internship in Sales Department, Jul 2023 - Oct 2023*
-   - Assisting the general manager of the sales department in statistics of sales data, analyzing performance output and other comprehensive operational work.
-   - Completing departmental personnel and administrative affairs, including daily document processing, talent recruitment and other administrative and personnel-related work; and
-   - Participate in campus recruitment and establish contact with university student organizations; complete other matters assigned by the leadership.
-
----
-
 ## Publications (Journal Articles)
 
 1. **[J.1]** Yi, W., Cai, X., **Ma, H.**, Fu, Z., & Zhan, Y. (2025).  
@@ -125,14 +99,17 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 
 
 - **Conference Papers**  
-  *NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation*  
-     - 6th International Conference on Economic Management and Green Development (2022)  
+1. **[C.1]** **NFT Popularity – Digital Artwork and Baudrillard’s Theory of Consumption Alienation**.  
+   *6th International Conference on Economic Management and Green Development (ICEMGD 2022)*.  
+   DOI: [https://doi.org/10.54254/2754-1169/3/2022764](https://doi.org/10.54254/2754-1169/3/2022764) :contentReference[oaicite:0]{index=0}
 
-  *Is Democracy Equal to the Right to Vote? -- An Analysis of Substantive and Procedural Democracy in the U.S.*  
-   - PESD 2022 International Academic Conference (2022)*  
+2. **[C.2]** **Is Democracy Equal to the Right to Vote? – An Analysis of Substantive and Procedural Democracy in the United States**.  
+   *The 2022 International Conference on Public Service, Economic Management and Sustainable Development (PESD 2022)*.  
+   DOI: [https://doi.org/10.1051/shsconf/202315401020](https://doi.org/10.1051/shsconf/202315401020) :contentReference[oaicite:1]{index=1}
 
-  *A Historical Overview of the Development of China's Fiscal Theory and Debt Governance*  
-     - 6th International Conference on Economics, Management, and Cultural Industry (ICEMCI 2024)*  
+3. **[C.3]** **A Historical Overview of the Development of China’s Fiscal Theory and Debt Governance**.  
+   *6th International Conference on Economic Management and Cultural Industry (ICEMCI 2024)*.  
+   DOI: [https://doi.org/10.2991/978-94-6463-642-0_64](https://doi.org/10.2991/978-94-6463-642-0_64) :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -142,4 +119,29 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 - Languages: English (CET-6), CATTI International Certification  
 - Others: Tennis, Painting  
 
+---
+
+## Social-Experience
+For better assessment to my leadership abilities<br/>
+Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
+
+- **Beijing Winter Olympics and Paralympics 2022**  
+  *NOC/NPC Assistant (Jan 2022 - Mar 2022)*  
+  - Assisted the German delegation during opening/closing ceremonies and other key events.  
+  - Hosted International Olympic Committee (IOC) President Thomas Bach and other VIPs.
+
+- **JingShuang Student Union, Peking University, National School of Development**  
+  *Director of Liaison Department (2022 - Present)*  
+  - Organized multiple enterprise visits, including to Meituan Headquarters and National Bureau of Statistics.  
+  - Facilitated internship agreements with Guosen Securities, creating 10+ positions for students.
+
+- **Hong Kong Trade Development Council**  
+  *Business Assistant for the China International Fair for Trade in Services (2021 - 2023)*  
+  - Coordinated with regional leaders, introduced Hong Kong trade policies, and managed on-site exhibitors.
+
+- **Guoxin Securities Co., Ltd. Beijing Branch**<br/>
+  *Internship in Sales Department, Jul 2023 - Oct 2023*
+   - Assisting the general manager of the sales department in statistics of sales data, analyzing performance output and other comprehensive operational work.
+   - Completing departmental personnel and administrative affairs, including daily document processing, talent recruitment and other administrative and personnel-related work; and
+   - Participate in campus recruitment and establish contact with university student organizations; complete other matters assigned by the leadership.
 
