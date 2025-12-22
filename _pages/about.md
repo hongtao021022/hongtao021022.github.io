@@ -14,18 +14,15 @@ I obtained my **Bachelor of Economics** degree in **July 2025** from the
 with a **Dual major in International Economics and International Politics**.
 
 At the same time, **Peking University** served as my **joint study institution**, where, after **three years of full-time study**, I was awarded a **Minor in Economics** in **July 2025**. 
-([National School of Development](https://en.nsd.pku.edu.cn/), 
-[Peking University](https://www.pku.edu.cn/))
 
 
-Here's a glance of my academics experience, other details like Research experience, please click  - __[Research Experience](https://hongtao021022.github.io/talks/)__
- - __[Social Experience](https://hongtao021022.github.io/portfolio/)__
+
+Here's a glance of my academics experience, other details like Research experience, please click  __[Research Experience](https://hongtao021022.github.io/talks/)__
+__[Social Experience](https://hongtao021022.github.io/portfolio/)__
 
 ---
 
 ## Academic Background
-For details, click [Academic Background](https://hongtao021022.github.io/markdown/)
-
 **Beijing International Studies University**  
   - __Bachelor of economics, major in International Economics and Trade (2020 - 2025)__ -   
   GPA: 88.29/100 | Top 10% in Class  
@@ -104,19 +101,28 @@ Please click [Social-Experience](https://hongtao021022.github.io/portfolio/).
 
 ---
 
-## Publications
-For details, click [Publications](https://hongtao021022.github.io/publications/)
-- **On working**  
-  *Three-Dimensional UAV Path Planning in Urban Environments Based on an Improved Parrot Optimization Algorithm*  
-    - This is under revision and excepted to be published as SCI paper in this year.  
-    - After my series studies in data science ,I choose to make a trial in algorithms.
+## Publications (Journal Articles)
 
-- **Mathematical Model**  
-  *Design of Investment Risk Control Model for Securities Market Based on Market Factors*  
-    - This is one of the works which we completed during the Mathematical Model competitions.  
+1. **[J.1]** Yi, W., Cai, X., **Ma, H.**, Fu, Z., & Zhan, Y. (2025).  
+   **A Library-Oriented Large Language Model Approach to Cross-Lingual and Cross-Modal Document Retrieval**.  
+   *Electronics*, **14**(15), 3145.  
+   DOI: [https://doi.org/10.3390/electronics14153145](https://doi.org/10.3390/electronics14153145)
 
-  *Global Pet Industry Insights: ARIMA-Based Forecasting of Pet Food Demand and Strategic Implications*
-    - This is my paper for the mathematical modeling competition——Asia-Pacific Mathematical Modeling Competition (contest in English)
+2. **[J.2]** Li, R., Yu, B., Zhang, B., **Ma, H.**, Qin, Y., Lv, X., & Yan, S. (2025).  
+   **Lightweight CNN–Transformer Hybrid Network with Contrastive Learning for Few-Shot Noxious Weed Recognition**.  
+   *Horticulturae*, **11**(10), 1236.  
+   DOI: [https://doi.org/10.3390/horticulturae11101236](https://doi.org/10.3390/horticulturae11101236)
+
+3. **[J.3]** Zhu, Y., Zhu, Y., **Ma, H.**, Li, B., Xiao, L., Wu, X., & Li, M. (2025).  
+   **Enhancing Boundary Precision and Long-Range Dependency Modeling in Medical Imaging via Unified Attention Framework**.  
+   *Electronics*, **14**(21), 4335.  
+   DOI: [https://doi.org/10.3390/electronics14214335](https://doi.org/10.3390/electronics14214335)
+
+4. **[J.4]** **Ma, H.**, Gao, Y., & Zhou, Z. (2025).  
+   **Three-Dimensional UAV Path Planning in Urban Environments Based on an Improved Parrot Optimization Algorithm**.  
+   *Information Technology and Control*, **54**(3), 821–843.  
+   DOI: [https://doi.org/10.5755/j01.itc.54.3.41351](https://doi.org/10.5755/j01.itc.54.3.41351)
+
 
 - **Conference Papers**  
   *NFT Popularity -- Digital Artwork and Baudrillard's Theory of Consumption Alienation*  
