@@ -20,8 +20,8 @@ In this study, we utilized the EEG Alzheimer's dataset provided by the UCI Machi
 The project builds a movie recommendation system using the MovieLens 10M dataset, following the guidance of the HarvardX PH125.9 course, with the goal of accurately predicting user movie ratings.
   - [The Rmarkdown PDF report](../assets/ml-10.pdf)
   - [Github](https://github.com/hongtao021022/ml-10m)
-
-
+<br/>
+<br/>
 - **All of 9 Courses are completed and certificated here**
 - [HarvardX PH125.1x Certificate R_Basics edX](../assets/HarvardX PH125.1x Certificate R_Basics edX.pdf)
 - [HarvardX PH125.2x Certificate Visualization_ edX](../assets/HarvardX PH125.2x Certificate Visualization_ edX.pdf)
