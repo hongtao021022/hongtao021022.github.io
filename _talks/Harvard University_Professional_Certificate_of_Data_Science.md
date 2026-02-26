@@ -6,7 +6,7 @@ permalink: /talks/Harvard University_Professional_Certificate_of_Data_Science
 ---
 **June 2024 - Feb 2026**
 
-- **Introduction**: The HarvardX Data Science Professional Certificate program teaches skills such as **R programming**, **data wrangling**, **data visualization, and machine learning** through case studies,  completing two **capstone projects**.
+**Introduction**: The HarvardX Data Science Professional Certificate program teaches skills such as **R programming**, **data wrangling**, **data visualization, and machine learning** through case studies,  completing two **capstone projects**.
 <br/>
 The two capstines are shown here
 
@@ -14,7 +14,6 @@ The two capstines are shown here
 In this study, we utilized the EEG Alzheimer's dataset provided by the UCI Machine Learning Repository to systematically analyze EEG signals associated with Alzheimer's disease, aiming to explore the relationship between different brain regions and disease status.
   - [The Rmarkdown PDF report](../assets/EEG.pdf)
   - [Github](https://github.com/hongtao021022/EEG-alzheimer-analysis)
-
 
 - **Project 2**: MovieLens Recommendation System
 The project builds a movie recommendation system using the MovieLens 10M dataset, following the guidance of the HarvardX PH125.9 course, with the goal of accurately predicting user movie ratings.
