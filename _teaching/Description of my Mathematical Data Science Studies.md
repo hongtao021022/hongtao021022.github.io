@@ -3,12 +3,12 @@ title: "Description of my Mathematical/Data Science Studies"
 collection: teaching
 type: "Written by Hongtao Ma"
 permalink: /teaching/Personal statement in data science studies
-venue: "Beijing International Studies Univeristy, School of Economics"
+venue: "Johns Hopkins Univeristy, Hopkins Nanjing Centre"
 date: 2025-01-10
-location: "Beijing, P.R.China"
+location: "Nanjing, P.R.China"
 ---
 <br/>
-__This is a description of my studies experience in data science.__ 
+__This is a description of my studies experience in Mathematics and Data science.__ 
 <br/>__Click on the <font color=lightblue>light blue words</font> to view the corresponding supporting documents.__
 
 ## Personal Statement
