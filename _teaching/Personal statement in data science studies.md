@@ -67,6 +67,7 @@ I believe that this training will enable me to bridge mathematical theory with p
   - [Topology](../assets/Topology.png)
 
 ---
+
 ### Discrete Mathematics
 - **Topics:** Logic; combinatorics; graph theory; discrete structures
 - **Certificates:**  
