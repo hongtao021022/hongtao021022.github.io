@@ -27,7 +27,8 @@ I believe that this training will enable me to bridge mathematical theory with p
 
 ## Mathematical Preparation
 
-### [MIT Math Boot Camp for Engineers][https://mitxonline.mit.edu/courses/course-v1:MITxT+10.MBCx/]
+### [MIT Math Boot Camp for Engineers](https://mitxonline.mit.edu/courses/course-v1:MITxT+10.MBCx/)
+
 - **Topics:** 
   - Single- and multivariable calculus; 
   - ordinary differential equations; 
