@@ -11,26 +11,69 @@ location: "Beijing, P.R.China"
 __This is a description of my studies experience in data science.__ 
 <br/>__Click on the <font color=lightblue>light blue words</font> to view the corresponding supporting documents.__
 
-## Statement: 
-In the section on my [academic background](https://hongtao021022.github.io/markdown/), I have provided detailes of my academic experiences. During my studies in these fields, I deeply recognized the significance of quantitative analysis, which permeates research and practice across various field of studies. Therefore, driven by the need for further learning and in anticipation of future academic pursuits, I am convinced that mastering advanced quantitative skills will provide a solid foundation for my academic development.
+## Statement
 
-Based on this understanding, I enrolled in a summer course at [the University of Hong Kong](https://datascience.hku.hk/study/summer-programmes-for-ug/) in the summer of 2023, marking the beginning of my journey into data science. During the course, I learned some bastic theories of data sciences, such as neural networks, nonlinear programming, and genetic algorithms, which opened the door to the field of data science and gave me an initial understanding of it.
+During my studies in economics and data science, I gradually realized that a rigorous mathematical foundation is essential for understanding modern quantitative methods. While my training in econometrics and machine learning provided strong practical skills, it also made me aware of the limitations caused by insufficient theoretical grounding.
 
-After that, I chose to further my studies through an online course offered by [Harvard University on the edX](https://www.edx.org/certificates/professional-certificate/harvardx-data-science). At the same time, to help me be more  proficient  in practical usage, I participated in several mathematical modeling competitions and completed a paper on financial mathematical modeling.
+Motivated by this, I systematically strengthened my mathematical background through independent study, covering Real Analysis, Abstract Algebra (group theory and ring theory), Complex Analysis, Topology, Discrete Mathematics, and Fourier Analysis. This training has significantly improved my understanding of optimization, probabilistic modeling, and machine learning.
 
-So, the studies and practical using in mathematical competitions help me have a good command of analysis tools such as __Python, MATLAB, and R__, and use these tools for data analysis, machine learning, and other tasks. This not only supports my academic research but also lays a solid foundation for my career development.
+Through research projects and mathematical modeling competitions, I further developed my ability to apply quantitative methods to real-world problems, as well as strong programming skills in Python, MATLAB, and R.
 
-I firmly believe that the study of data science will help me to solve complex problems, open up broader career paths for my future, and enable me to achieve higher goals in both academic and professional realms.
+Looking ahead, I aim to pursue a PhD in optimization, operations research, or quantitative economics. To achieve this, I seek rigorous and systematic training in advanced mathematics. This program will allow me to strengthen my theoretical foundation and prepare for future doctoral study.
+
+I believe that this training will enable me to bridge mathematical theory with practical applications and support my long-term academic goals.
+
 
 ## The following are the details and materials
+## Mathematical Preparation
 
-  **It contains three parts:**
-- Summer program in the University of Hong Kong
-- Harvard edx courses——Professional Certificate inData Science
-- Participating in Mathematical Modeling Competition
-- Paper workings in data science
-<br/>
-<br/>
+### Real Analysis
+- **Topics:** Basic topology of metric spaces; sequences and series of functions; uniform convergence; Riemann–Stieltjes integral; Lebesgue measure; Lebesgue integral
+- **Certificates:**  
+  - [Real Analysis I: Basic Topology](../assets/Real_Analysis01_Basic_Topology.pdf)  
+  - [Real Analysis II: Sequences and Series of Functions](../assets/Real_Analysis02_Sequence_and_Series_of_Functions.pdf)  
+  - [Real Analysis III: Uniform Convergence](../assets/Real_Analysis03_Uniform_Convergence.pdf)  
+  - [Real Analysis IV: Riemann–Stieltjes Integral](../assets/Real_Analysis04_Riemann_Stieltjes_Integral.pdf)  
+  - [Real Analysis V: Lebesgue Measure](../assets/Real_Analysis05_Lebesgue_Measure.pdf)  
+  - [Real Analysis VI: Lebesgue Integral](../assets/Real_Analysis06_Lebesgue_Integral.pdf)
+
+---
+
+### Fourier Analysis
+- **Topics:** Fourier series; Fourier transform; frequency domain analysis; applications to signals and functions
+- **Certificates:**  
+  - [Fourier Analysis](../assets/Fourier_Analysis.pdf)
+
+---
+
+### Complex Analysis
+- **Topics:** Analytic functions; contour integration; Cauchy theorem; residues; complex integration techniques
+- **Certificates:**  
+  - [Complex Analysis](../assets/certificate_Complex_Analysis.pdf)
+
+---
+
+### Abstract Algebra
+- **Topics:** Group theory; ring theory; basic field concepts
+- **Certificates:**  
+  - [Group Theory](../assets/Group_theory.pdf)  
+  - [Ring Theory](../assets/Ring_theory.pdf)
+
+---
+
+### Topology
+- **Topics:** Open and closed sets; continuity; compactness; connectedness
+- **Certificates:**  
+  - [Topology](../assets/Topology.png)
+
+---
+
+### Discrete Mathematics
+- **Topics:** Logic; combinatorics; graph theory; discrete structures
+- **Certificates:**  
+  - [Discrete Mathematics](../assets/Discrete_Mathematics.pdf)
+
+
 
 ## Data science course in The University of Hong Kong
   **[Program name is Data Science for Beginners: Theory, Algorithms and Applications](../assets/07-HKU summer program.pdf)**  
