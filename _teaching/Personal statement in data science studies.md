@@ -11,7 +11,7 @@ location: "Beijing, P.R.China"
 __This is a description of my studies experience in data science.__ 
 <br/>__Click on the <font color=lightblue>light blue words</font> to view the corresponding supporting documents.__
 
-## Statement
+## Personal Statement
 
 During my studies in economics and data science, I gradually realized that a rigorous mathematical foundation is essential for understanding modern quantitative methods. While my training in econometrics and machine learning provided strong practical skills, it also made me aware of the limitations caused by insufficient theoretical grounding.
 
@@ -24,7 +24,7 @@ Looking ahead, I aim to pursue a PhD in optimization, operations research, or qu
 I believe that this training will enable me to bridge mathematical theory with practical applications and support my long-term academic goals.
 
 
-## The following are the details and materials
+
 ## Mathematical Preparation
 
 ### Real Analysis
@@ -36,63 +36,34 @@ I believe that this training will enable me to bridge mathematical theory with p
   - [Real Analysis IV: Riemann–Stieltjes Integral](../assets/Real_Analysis04_Riemann_Stieltjes_Integral.pdf)  
   - [Real Analysis V: Lebesgue Measure](../assets/Real_Analysis05_Lebesgue_Measure.pdf)  
   - [Real Analysis VI: Lebesgue Integral](../assets/Real_Analysis06_Lebesgue_Integral.pdf)
-
 ---
 
 ### Fourier Analysis
 - **Topics:** Fourier series; Fourier transform; frequency domain analysis; applications to signals and functions
 - **Certificates:**  
   - [Fourier Analysis](../assets/Fourier_Analysis.pdf)
-
 ---
-
 ### Complex Analysis
 - **Topics:** Analytic functions; contour integration; Cauchy theorem; residues; complex integration techniques
 - **Certificates:**  
   - [Complex Analysis](../assets/certificate_Complex_Analysis.pdf)
-
 ---
-
 ### Abstract Algebra
 - **Topics:** Group theory; ring theory; basic field concepts
 - **Certificates:**  
   - [Group Theory](../assets/Group_theory.pdf)  
   - [Ring Theory](../assets/Ring_theory.pdf)
-
 ---
-
 ### Topology
 - **Topics:** Open and closed sets; continuity; compactness; connectedness
 - **Certificates:**  
   - [Topology](../assets/Topology.png)
-
 ---
-
 ### Discrete Mathematics
 - **Topics:** Logic; combinatorics; graph theory; discrete structures
 - **Certificates:**  
   - [Discrete Mathematics](../assets/Discrete_Mathematics.pdf)
 
-
-
-## Data science course in The University of Hong Kong
-  **[Program name is Data Science for Beginners: Theory, Algorithms and Applications](../assets/07-HKU summer program.pdf)**  
-  - __This is the start of my studies in data science__
-  - __Relevant courses:__ Neural Network; Nonlinear Programming; Genetic Algorithm
-
-
-## Harvards edx courses
-  **Professional Certificate inData Science**  
-- __This is the start of my studies in data science__
-- __Relevant courses:__
-    - [Data Science: R Basics](../assets/HarvardX PH125.1x Certificate R_Basics edX.pdf)
-    - [Data Science: Visualization](../assets/HarvardX PH125.2x Certificate Visualization_ edX.pdf)
-    - [Data Science: Probability](../assets/HarvardX PH125.3x Certificate Probability_ edX.pdf)
-    - [Data Science: Inference and Modeling](../assets/HarvardX PH125.4x Certificate Inference and Modeling_ edX.pdf)
-    - [Data Science: Productivity Tools](../assets/HarvardX PH125.5x Certificate Productivity Tools_ edX.pdf)
-    - [Data Science: Wrangling](../assets/HarvardX PH125.6x Certificate Wrangling_ edX.pdf)
-    - [Data Science: Linear Regression](../assets/HarvardX PH125.7x Certificate Linear Regression_ edX.pdf)
-    - [Data Science: Machine Learning](../assets/HarvardX PH125.8x Certificate Machine Learning_ edX.pdf)
 
 
 ## Mathematical Modeling
@@ -102,17 +73,35 @@ I believe that this training will enable me to bridge mathematical theory with p
   - [China Undergraduate Mathematical Contest in Modelling（CUMCM）, Second Prize](../assets/05-ChinaUndergraduate Mathematical Contest in Modelling（CUMCM）.png)
 
 
-## Paper working in data science
-  **Three-Dimensional UAV Path Planning in Urban Environments Based on an Improved Parrot Optimization Algorithm**  
-  - This is a trial in algorithm studies after my series studies in data science, which is under the revising and excepted to be published as a SCI paper in this year.
-  - [Click here to see the details](https://hongtao021022.github.io/publication/Three-Dimensional%20UAV%20Path%20Planning%20in%20Urban%20EnvironmentsBased).
+## Data science course in The University of Hong Kong
+  **[Program name is Data Science for Beginners: Theory, Algorithms and Applications](../assets/07-HKU summer program.pdf)**  
+  - __This is the start of my studies in data science__
+  - __Relevant courses:__ Neural Network; Nonlinear Programming; Genetic Algorithm
 
 
-  **Design of a Securities Market Investment Risk Control Model Based on Market Factors**  
-  - This is my paper for the mathematical modeling competition, which is related to financial modeling.
-  - [Click here to see the details](https://hongtao021022.github.io/publication/Financial%20Mathematical%20Modeling%20Paper).
+## Harvards edx courses
+ 
+- **Project 1**: Explainable EEG Network Analysis for Alzheimer's Disease Detection: Node-Level Graph Features and XGBoost
+In this study, we utilized the EEG Alzheimer's dataset provided by the UCI Machine Learning Repository to systematically analyze EEG signals associated with Alzheimer's disease, aiming to explore the relationship between different brain regions and disease status.
+  - [The Rmarkdown PDF report](../assets/EEG.pdf)
+  - [Github](https://github.com/hongtao021022/EEG-alzheimer-analysis)
 
+- **Project 2**: MovieLens Recommendation System
+The project builds a movie recommendation system using the MovieLens 10M dataset, following the guidance of the HarvardX PH125.9 course, with the goal of accurately predicting user movie ratings.
+  - [The Rmarkdown PDF report](../assets/ml-10.pdf)
+  - [Github](https://github.com/hongtao021022/ml-10m)
+<br/>
+<br/>
+- **All of 9 Courses are completed and certificated here**
+- [HarvardX PH125.1x Certificate R_Basics edX](../assets/HarvardX PH125.1x Certificate R_Basics edX.pdf)
+- [HarvardX PH125.2x Certificate Visualization_ edX](../assets/HarvardX PH125.2x Certificate Visualization_ edX.pdf)
+- [HarvardX PH125.3x Certificate Probability_ edX](../assets/HarvardX PH125.3x Certificate Probability_ edX.pdf)
+- [HarvardX PH125.4x Certificate Inference and Modeling_ edX](../assets/HarvardX PH125.4x Certificate Inference and Modeling_ edX.pdf)
+- [HarvardX PH125.5x Certificate Productivity Tools_ edX](../assets/HarvardX PH125.5x Certificate Productivity Tools_ edX.pdf)
+- [HarvardX PH125.6x Certificate Wrangling_ edX](../assets/HarvardX PH125.6x Certificate Wrangling_ edX.pdf)
+- [HarvardX PH125.7x Certificate Linear Regression_ edX](../assets/HarvardX PH125.7x Certificate Linear Regression_ edX.pdf)
+- [HarvardX PH125.8x Certificate Machine Learning_ edX](../assets/HarvardX PH125.8x Certificate Machine Learning_ edX.pdf)
+- [HarvardX PH125.9x Certificate Capstone_ edX](../assets/HarvardX PH125.9x Certificate Capstone_ edX.pdf)
 
-  **Global Pet Industry Insights: ARIMA-Based Forecasting of Pet Food Demand and Strategic Implications**  
-  - This is my paper for the mathematical modeling competition——Asia-Pacific Mathematical Modeling Competition (contest in English).
-  - [Click here to see the details](https://hongtao021022.github.io/publication/Global%20Pet%20Industry%20Insights%20ARIMA-Based%20Forecasting%20of%20Pet%20Food%20Demand).
+All finished will get:
+- [Professional Certificate _ edX Credentials](../assets/Professional Certificate _ edX Credentials.pdf)
