@@ -5,6 +5,8 @@
 # prevent it from being included in the site.
 
 main:
+ - title: "Academic Background"
+    url: /markdown/
 
   - title: "Research Experience"
     url: /talks/    
@@ -12,7 +14,8 @@ main:
   - title: "Social Experience"
     url: /portfolio/
 
-
+ - title: "Other Statements"
+    url: /teaching/    
 
 
     
