@@ -4,7 +4,7 @@ collection: teaching
 type: "Written by Hongtao Ma"
 permalink: /teaching/Personal statement in data science studies
 venue: "Johns Hopkins Univeristy, Hopkins Nanjing Centre"
-date: 2025-01-10
+date: 2026-03-20
 location: "Nanjing, P.R.China"
 ---
 <br/>
