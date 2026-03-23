@@ -1,5 +1,5 @@
 ---
-title: "Description of my Mathematical/Data Science Studies"
+title: "Description of my Mathematical Studies"
 collection: teaching
 type: "Written by Hongtao Ma"
 permalink: /teaching/Personal statement in data science studies
