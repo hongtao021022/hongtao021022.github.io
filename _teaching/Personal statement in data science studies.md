@@ -36,28 +36,36 @@ I believe that this training will enable me to bridge mathematical theory with p
   - [Real Analysis IV: Riemann–Stieltjes Integral](../assets/Real_Analysis04_Riemann_Stieltjes_Integral.pdf)  
   - [Real Analysis V: Lebesgue Measure](../assets/Real_Analysis05_Lebesgue_Measure.pdf)  
   - [Real Analysis VI: Lebesgue Integral](../assets/Real_Analysis06_Lebesgue_Integral.pdf)
+
 ---
 
 ### Fourier Analysis
 - **Topics:** Fourier series; Fourier transform; frequency domain analysis; applications to signals and functions
 - **Certificates:**  
   - [Fourier Analysis](../assets/Fourier_Analysis.pdf)
+
 ---
+
 ### Complex Analysis
 - **Topics:** Analytic functions; contour integration; Cauchy theorem; residues; complex integration techniques
 - **Certificates:**  
   - [Complex Analysis](../assets/certificate_Complex_Analysis.pdf)
+
 ---
+
 ### Abstract Algebra
 - **Topics:** Group theory; ring theory; basic field concepts
 - **Certificates:**  
   - [Group Theory](../assets/Group_theory.pdf)  
   - [Ring Theory](../assets/Ring_theory.pdf)
+
 ---
+
 ### Topology
 - **Topics:** Open and closed sets; continuity; compactness; connectedness
 - **Certificates:**  
   - [Topology](../assets/Topology.png)
+
 ---
 ### Discrete Mathematics
 - **Topics:** Logic; combinatorics; graph theory; discrete structures
