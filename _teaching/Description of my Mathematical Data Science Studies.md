@@ -27,6 +27,21 @@ I believe that this training will enable me to bridge mathematical theory with p
 
 ## Mathematical Preparation
 
+### MIT Math Boot Camp for Engineers
+- **Topics:** 
+Single- and multivariable calculus; 
+ordinary differential equations; 
+linear algebra; series; 
+probability and statistics; 
+mathematical methods for engineering analysis
+
+- **Certificate:**  
+  - [MITx Math Boot Camp for Engineers](../assets/MITx Online _ Certificate for_ Math Boot Camp for Engineers.pdf)
+
+---
+
+
+
 ### Real Analysis
 - **Topics:** Basic topology of metric spaces; sequences and series of functions; uniform convergence; Riemann–Stieltjes integral; Lebesgue measure; Lebesgue integral
 - **Certificates:**  
