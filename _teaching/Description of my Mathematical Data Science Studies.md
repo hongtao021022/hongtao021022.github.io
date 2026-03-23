@@ -11,18 +11,9 @@ location: "Nanjing, P.R.China"
 __This is a description of my studies experience in Mathematics and Data science.__ 
 <br/>__Click on the <font color=lightblue>light blue words</font> to view the corresponding supporting documents.__
 
-## Personal Statement
+## Statement of mathematics study
 
-During my studies in economics and data science, I gradually realized that a rigorous mathematical foundation is essential for understanding modern quantitative methods. While my training in econometrics and machine learning provided strong practical skills, it also made me aware of the limitations caused by insufficient theoretical grounding.
-
-Motivated by this, I systematically strengthened my mathematical background through independent study, covering Real Analysis, Abstract Algebra (group theory and ring theory), Complex Analysis, Topology, Discrete Mathematics, and Fourier Analysis. This training has significantly improved my understanding of optimization, probabilistic modeling, and machine learning.
-
-Through research projects and mathematical modeling competitions, I further developed my ability to apply quantitative methods to real-world problems, as well as strong programming skills in Python, MATLAB, and R.
-
-Looking ahead, I aim to pursue a PhD in optimization, operations research, or quantitative economics. To achieve this, I seek rigorous and systematic training in advanced mathematics. This program will allow me to strengthen my theoretical foundation and prepare for future doctoral study.
-
-I believe that this training will enable me to bridge mathematical theory with practical applications and support my long-term academic goals.
-
+### [Click here](../assets/Motivation_Letter.pdf)
 
 
 ## Mathematical Preparation
