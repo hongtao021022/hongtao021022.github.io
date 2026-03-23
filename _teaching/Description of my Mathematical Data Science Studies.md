@@ -1,5 +1,5 @@
 ---
-title: "Description of my Data Science Studies"
+title: "Description of my Mathematical/Data Science Studies"
 collection: teaching
 type: "Written by Hongtao Ma"
 permalink: /teaching/Personal statement in data science studies
@@ -83,7 +83,7 @@ I believe that this training will enable me to bridge mathematical theory with p
 
 
 ## Data science course in The University of Hong Kong
-  **[Program name is Data Science for Beginners: Theory, Algorithms and Applications](../assets/07-HKU summer program.pdf)**  
+  **[Program：Data Science for Beginners: Theory, Algorithms and Applications](../assets/07-HKU summer program.pdf)**  
   - __This is the start of my studies in data science__
   - __Relevant courses:__ Neural Network; Nonlinear Programming; Genetic Algorithm
 
